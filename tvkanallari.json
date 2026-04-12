@@ -2,78 +2,11 @@
   "version": 1,
   "categories": [
     {
-      "name": "Ulusal",
+      "name": "Test",
       "channels": [
         {
-          "name": "TRT 1 HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912457&extension=ts&play_token=26T3CpvREv"
-        },
-        {
-          "name": "ATV HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912455&extension=ts&play_token=ySDuKzG4a8"
-        },
-        {
-          "name": "KANAL D HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912454&extension=ts&play_token=6qG8OWs5Wu"
-        },
-        {
-          "name": "SHOW TV HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912452&extension=ts&play_token=ysoK4TIXgV"
-        },
-        {
-          "name": "STAR TV HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912453&extension=ts&play_token=CdueclmXZF"
-        },
-        {
-          "name": "TV8 HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912451&extension=ts&play_token=P1psH5IWVb"
-        }
-      ]
-    },
-    {
-      "name": "Haber",
-      "channels": [
-        {
-          "name": "TRT HABER HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912928&extension=ts&play_token=eADBULEuW2"
-        },
-        {
-          "name": "CNN TÜRK HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912922&extension=ts&play_token=AFIE0Vv6ar"
-        },
-        {
-          "name": "NTV HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912920&extension=ts&play_token=tAICk0DL6D"
-        },
-        {
-          "name": "HABERTÜRK HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912924&extension=ts&play_token=vsPznFyNSi"
-        }
-      ]
-    },
-    {
-      "name": "Müzik",
-      "channels": [
-        {
-          "name": "TRT MÜZİK HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=913031&extension=ts&play_token=uUoIjKmzgT"
-        },
-        {
-          "name": "POWER HD",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=913027&extension=ts&play_token=SMkDYdQ49w"
-        }
-      ]
-    },
-    {
-      "name": "Çocuk",
-      "channels": [
-        {
-          "name": "TRT ÇOCUK",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=913124&extension=ts&play_token=l8XbELP88k"
-        },
-        {
-          "name": "CARTOON NETWORK",
-          "url": "http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=913115&extension=ts&play_token=7X7tPOJQMc"
+          "name": "Test Kanal",
+          "url": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8"
         }
       ]
     }
