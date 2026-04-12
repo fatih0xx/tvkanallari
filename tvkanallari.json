@@ -1,955 +1,107 @@
 [
   {
-    "name": "TRT 1",
-    "category": "Ulusal",
-    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png",
+    "ad": "TRT 1",
     "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "id": "1"
+    "kategori": "Ulusal"
   },
   {
-    "name": "ATV",
-    "category": "Ulusal",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png",
+    "ad": "ATV",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-    "id": "2"
+    "kategori": "Ulusal"
   },
   {
-    "name": "Kanal D",
-    "category": "Ulusal",
-    "logo": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png",
+    "ad": "Kanal D",
     "url": "https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8",
-    "id": "3"
+    "kategori": "Ulusal"
   },
   {
-    "name": "Show TV",
-    "category": "Ulusal",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png",
+    "ad": "Show TV",
     "url": "https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8",
-    "id": "5"
+    "kategori": "Ulusal"
   },
   {
-    "name": "Beyaz TV",
-    "category": "Ulusal",
-    "logo": "https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/beyaz-tv-tr.png",
+    "ad": "FOX TV",
     "url": "https://streams.uzunmuhalefet.com/stream/710fb148-7b3d-4ca2-b6c2-743097885a45.m3u8",
-    "id": "6"
+    "kategori": "Ulusal"
   },
   {
-    "name": "Kanal 7",
-    "category": "Ulusal",
-    "logo": "https://cdn.technettv.com/channel/29485/logo_256_1733831753.png",
+    "ad": "TV8",
     "url": "https://streams.uzunmuhalefet.com/stream/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3u8",
-    "id": "7"
+    "kategori": "Ulusal"
   },
   {
-    "name": "TV8",
-    "category": "Ulusal",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",
+    "ad": "NOW TV",
     "url": "https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8",
-    "id": "8"
+    "kategori": "Ulusal"
   },
   {
-    "name": "360 TV",
-    "category": "Ulusal",
-    "logo": "https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/360-tr.png",
+    "ad": "Star TV",
+    "url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
+    "kategori": "Ulusal"
+  },
+  {
+    "ad": "TRT Haber",
     "url": "https://streams.uzunmuhalefet.com/stream/90fefbea-4a78-4f02-962f-2e1e4ad22f98.m3u8",
-    "id": "10"
+    "kategori": "Haber"
   },
   {
-    "name": "TV 100",
-    "category": "Ulusal",
-    "logo": "https://play-lh.googleusercontent.com/k5wrikGyT1yvqKKf3k_7MoUNUaAYARF0rGDX1I_PBppuczYoT-eP52LUTuW6xZbpGvY",
+    "ad": "A Haber",
     "url": "https://streams.uzunmuhalefet.com/stream/d95e9a1b-3955-4643-8327-413da9a1ce60.m3u8",
-    "id": "11"
+    "kategori": "Haber"
   },
   {
-    "name": "TYT Türk",
-    "category": "Ulusal",
-    "logo": "https://tytturk.com/uploads/medya/tyt-logo.png",
+    "ad": "CNN Türk",
+    "url": "http://87.121.104.29:1798/cnnytcanli/stream.m3u8",
+    "kategori": "Haber"
+  },
+  {
+    "ad": "Haber Global",
+    "url": "https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8",
+    "kategori": "Haber"
+  },
+  {
+    "ad": "NTV",
     "url": "https://streams.uzunmuhalefet.com/stream/7ca72bbc-449a-4521-80e2-b891f1964493.m3u8",
-    "id": "12"
+    "kategori": "Haber"
   },
   {
-    "name": "TRT Haber",
-    "category": "Haber",
-    "logo": "https://cdn.technettv.com/channel/20623/logo_256_1699961936.png",
+    "ad": "TGRT Haber",
     "url": "https://streams.uzunmuhalefet.com/stream/aa1ae31d-1d61-44b2-b675-b74e3ff5c7fc.m3u8",
-    "id": "13"
+    "kategori": "Haber"
   },
   {
-    "name": "A Haber",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+    "ad": "Kanal 24",
     "url": "https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8",
-    "id": "14"
+    "kategori": "Haber"
   },
   {
-    "name": "TGRT Haber",
-    "category": "Haber",
-    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/tgrt-haber-tr.png",
+    "ad": "Kanal 7",
     "url": "https://streams.uzunmuhalefet.com/stream/bd9ebc63-8243-43d6-83a2-eeef100f7e20.m3u8",
-    "id": "16"
+    "kategori": "Ulusal"
   },
   {
-    "name": "Habertürk",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habert%C3%BCrk_logo.svg/1200px-Habert%C3%BCrk_logo.svg.png",
+    "ad": "Flash TV",
     "url": "https://streams.uzunmuhalefet.com/stream/0c0bc91d-ce3a-49cc-9054-1cff110967c4.m3u8",
-    "id": "17"
+    "kategori": "Ulusal"
   },
   {
-    "name": "Ülke TV",
-    "category": "Haber",
-    "logo": "https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png",
+    "ad": "Kanal Ekstra 1",
     "url": "https://streams.uzunmuhalefet.com/stream/b94c88b7-3a36-48ce-9e04-19bc2b3921f9.m3u8",
-    "id": "19"
+    "kategori": "Diğer"
   },
   {
-    "name": "Halk TV",
-    "category": "Haber",
-    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png",
+    "ad": "Kanal Ekstra 2",
     "url": "https://streams.uzunmuhalefet.com/stream/ea5e2000-56b6-4fb9-8dcf-b8bbe90b9f7b.m3u8",
-    "id": "20"
+    "kategori": "Diğer"
   },
   {
-    "name": "NTV",
-    "category": "Haber",
-    "logo": "https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/ntv-tr.png",
+    "ad": "Kanal Ekstra 3",
     "url": "https://streams.uzunmuhalefet.com/stream/f27d4ced-d7e4-4d63-95b4-c47302cad618.m3u8",
-    "id": "21"
+    "kategori": "Diğer"
   },
   {
-    "name": "24 TV",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png",
+    "ad": "Kanal Ekstra 4",
     "url": "https://streams.uzunmuhalefet.com/stream/35b6fa6f-7915-4303-8198-30c2d7b82929.m3u8",
-    "id": "22"
-  },
-  {
-    "name": "Sözcü TV",
-    "category": "Haber",
-    "logo": "https://d3ckc0u56niq67.cloudfront.net/conf/images/sozcu_tv_KPX.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8",
-    "id": "23"
-  },
-  {
-    "name": "Ekol TV",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/0665560a-c8a8-4087-bee6-9af26f226c90.m3u8",
-    "id": "24"
-  },
-  {
-    "name": "TVNET",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/9006885e-a09b-41e5-a19d-3273c30a74e9.m3u8",
-    "id": "25"
-  },
-  {
-    "name": "TELE1",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8",
-    "id": "26"
-  },
-  {
-    "name": "Akit TV",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/5eed93a7-3042-4568-8335-dcaf66552b23.m3u8",
-    "id": "27"
-  },
-  {
-    "name": "Ulusal Kanal",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/e8b425ad-571d-475d-a657-37bca8985836.m3u8",
-    "id": "28"
-  },
-  {
-    "name": "TV 5",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/e12ae805-19c9-4c7f-ac92-cdd89d953d10.m3u8",
-    "id": "29"
-  },
-  {
-    "name": "Lider Haber TV",
-    "category": "Haber",
-    "logo": "https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2025/10/lider-4-2.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/5b8db41e-b662-4652-bd8a-fc198ceb33f4.m3u8",
-    "id": "31"
-  },
-  {
-    "name": "Neo Haber",
-    "category": "Haber",
-    "logo": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/neo-haber-buyuk.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/b2afa8c0-ab41-4111-a988-38e6db9e0d87.m3u8",
-    "id": "32"
-  },
-  {
-    "name": "TeleNews Tv Haber",
-    "category": "Haber",
-    "logo": "https://telenews.com.tr/wp-content/uploads/2025/08/telenews-logo.png",
-    "url": "https://cdn-telenews.yayin.com.tr/telenews/index.m3u8",
-    "id": "32",
-    "tvgName": "TeleNews"
-  },
-  {
-    "name": "KRT TV",
-    "category": "Haber",
-    "logo": "https://media-cdn.t24.com.tr/media/library/2023/12/1703778981680-krt-tv.jpg",
-    "url": "https://trn03.tulix.tv/gt-krt--tv/index.m3u8",
-    "id": "32"
-  },
-  {
-    "name": "TBMM TV",
-    "category": "Haber",
-    "logo": "https://images.seeklogo.com/logo-png/61/3/tbmm-tv-logo-png_seeklogo-612581.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/5fa3931d-88db-42b1-aac9-1006708bd3e8.m3u8",
-    "id": "33"
-  },
-  {
-    "name": "BHA TV",
-    "category": "Haber",
-    "logo": "https://www.kulis.tv/images/haberler/2024/11/timbir-ve-bha-ya-yonelik-yorum-asilsiz-cikti-tekzip-geldi-5669.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/843d8857-d125-4188-84f9-0d261976c51f.m3u8",
-    "id": "34"
-  },
-  {
-    "name": "TRT Türk",
-    "category": "Ulusal - Yurt Dışı",
-    "logo": "https://cdn.technettv.com/channel/29492/logo_256_1733831875.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/d8fcd134-0f23-4883-ae8f-4c04cc3cc49a.m3u8",
-    "id": "35"
-  },
-  {
-    "name": "TRT Avaz",
-    "category": "Ulusal - Yurt Dışı",
-    "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4a3026d6-b1be-4373-bb83-447117196e55.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/3dd49c7a-001c-4be0-9a16-0f8957e3977c.m3u8",
-    "id": "36"
-  },
-  {
-    "name": "ATV Avrupa",
-    "category": "Ulusal - Yurt Dışı",
-    "logo": "https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8",
-    "id": "37"
-  },
-  {
-    "name": "Euro D",
-    "category": "Ulusal - Yurt Dışı",
-    "logo": "https://eurod.kanald.com.tr/assets/img/logo.v5.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8",
-    "id": "38"
-  },
-  {
-    "name": "TGRT EU",
-    "category": "Ulusal - Yurt Dışı",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/TGRT_EU.png",
-    "url": "http://tgrt-live.ercdn.net/tgrteu/tgrteu_576p.m3u8",
-    "id": "39"
-  },
-  {
-    "name": "Show Türk",
-    "category": "Ulusal - Yurt Dışı",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/250px-Show_Turk_logo.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8",
-    "id": "40"
-  },
-  {
-    "name": "Kanal 7 Avrupa",
-    "category": "Ulusal - Yurt Dışı",
-    "logo": "https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7avrupa/images/kanal7avrupa_logo.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/49c9a96d-f9c0-474e-b2f7-5e62bbdd0290.m3u8",
-    "id": "41"
-  },
-  {
-    "name": "Kanal Avrupa",
-    "category": "Ulusal - Yurt Dışı",
-    "logo": "https://assets.uzunmuhalefet.com/logos/ba21c671-ff84-4bf0-97b5-8b326291d36b.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/92ccdd1d-1d3e-47eb-b84b-e75effe16829.m3u8",
-    "id": "42"
-  },
-  {
-    "name": "A Para",
-    "category": "Ekonomi",
-    "logo": "https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA",
-    "url": "https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8",
-    "id": "43"
-  },
-  {
-    "name": "Bloomberg HT",
-    "category": "Ekonomi",
-    "logo": "https://cdn.technettv.com/channel/20322/logo_256_1699957451.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3u8",
-    "id": "44"
-  },
-  {
-    "name": "Ekotürk",
-    "category": "Ekonomi",
-    "logo": "https://www.ekoturk.com/wp-content/themes/eko-news/images/ekoturk-logo-v2.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/50237544-8084-4092-b09c-234af5f951af.m3u8",
-    "id": "45"
-  },
-  {
-    "name": "Finans Türk",
-    "category": "Ekonomi",
-    "logo": "https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/93841168-9d59-43d0-9246-e04b64558b05.m3u8",
-    "id": "46"
-  },
-  {
-    "name": "Günedoğuş TV",
-    "category": "Ekonomi",
-    "logo": "https://assets.uzunmuhalefet.com/logos/dbf9df04-b521-4d47-a165-776102d7ee93.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/2f9d4fa2-e7b3-45df-9d19-250016b87504.m3u8",
-    "id": "47"
-  },
-  {
-    "name": "CNBC-e",
-    "category": "Ekonomi",
-    "logo": "https://s.cnbce.com/dist/images/logo.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8",
-    "id": "48"
-  },
-  {
-    "name": "TRT 2",
-    "category": "Eğlence",
-    "logo": "https://cdn.technettv.com/channel/20315/logo_256_1699961575.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3u8",
-    "id": "49"
-  },
-  {
-    "name": "A2",
-    "category": "Eğlence",
-    "logo": "https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/a2-tr.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8",
-    "id": "50"
-  },
-  {
-    "name": "teve2",
-    "category": "Eğlence",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/a/ae/Tv2_logo_%282026%29.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/44cff2e5-7871-40c8-b6d2-094572b4371a.m3u8",
-    "id": "51"
-  },
-  {
-    "name": "Show Max",
-    "category": "Eğlence",
-    "logo": "https://assets.uzunmuhalefet.com/logos/3005c68a-16db-436f-b1b9-1618d8bb05d8.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8",
-    "id": "52"
-  },
-  {
-    "name": "TV 8.5",
-    "category": "Eğlence",
-    "logo": "https://tvprofil.com/img/kanali-logo/TV_8.5_TR_logo_v2.png?1734016644",
-    "url": "https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8",
-    "id": "53"
-  },
-  {
-    "name": "TLC",
-    "category": "Eğlence",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/7c98bf26-69a3-4f45-a330-d7c27459b375.m3u8",
-    "id": "54"
-  },
-  {
-    "name": "DMAX",
-    "category": "Eğlence",
-    "logo": "https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWRlIiwia2V5IjoiZG1heC1pbWFnZS1lODg0NmVhNy02YWNkLTRiMjYtOTMxMi1kYmQ1Y2EyMjk0OGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MH0sImpwZWciOnsicXVhbGl0eSI6NTUsInByb2dyZXNzaXZlIjp0cnVlfX19",
-    "url": "https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8",
-    "id": "55"
-  },
-  {
-    "name": "TV 4",
-    "category": "Eğlence",
-    "logo": "https://images.open-epg.com/12847.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/39e2ff02-8468-4c67-8388-ab83d792071b.m3u8",
-    "id": "56"
-  },
-  {
-    "name": "GZT TV",
-    "category": "Eğlence",
-    "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3u8",
-    "id": "57"
-  },
-  {
-    "name": "Tivi6",
-    "category": "Eğlence",
-    "logo": "https://assets.uzunmuhalefet.com/logos/82d9c0fb-ef2d-4f75-9eb5-673b7ed8b10b.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/dfe0f95a-70ae-418b-b4e1-c9d63515edab.m3u8",
-    "id": "58"
-  },
-  {
-    "name": "Dizi-Film TV",
-    "category": "Eğlence",
-    "logo": "https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/b63b0c43-c0c7-4d4c-bce1-add3c10ac09d.m3u8",
-    "id": "59"
-  },
-  {
-    "name": "Fashion One TV",
-    "category": "Eğlence",
-    "logo": "https://assets.uzunmuhalefet.com/logos/935e306b-8134-4672-80c3-9487b0f021a0.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/7c09700e-871b-4282-8f5d-c5046b46a888.m3u8",
-    "id": "60"
-  },
-  {
-    "name": "Super Türk TV",
-    "category": "Eğlence",
-    "logo": "https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/6a6bce48-2365-49c8-bfb2-3fccdac9372e.m3u8",
-    "id": "61"
-  },
-  {
-    "name": "Kuzeymax",
-    "category": "Eğlence",
-    "logo": "https://assets.uzunmuhalefet.com/logos/8ae9a3c0-cc01-4dbd-a8c6-175c8b0dd287.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/4542f8b9-5c6c-4ef1-aa87-48c0f991fe73.m3u8",
-    "id": "62"
-  },
-  {
-    "name": "TRT Spor",
-    "category": "Spor",
-    "logo": "https://cdn.technettv.com/channel/20770/logo_256_1699963394.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/dc23a8ec-c62f-47a2-ae23-e823a9851a1a.m3u8",
-    "id": "63"
-  },
-  {
-    "name": "TRT Spor Yıldız",
-    "category": "Spor",
-    "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/978e9210-f530-44ae-99c8-8bdfc998b071.m3u8",
-    "id": "65"
-  },
-  {
-    "name": "A Spor",
-    "category": "Spor",
-    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-spor-tr.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8",
-    "id": "67"
-  },
-  {
-    "name": "HT Spor",
-    "category": "Spor",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFZOKcoVeRqlfcwUBNXoQZGZPguNXzdDz9w&s",
-    "url": "https://streams.uzunmuhalefet.com/stream/3aae30d4-6a42-46f1-9e7b-7524748a940b.m3u8",
-    "id": "68"
-  },
-  {
-    "name": "Ekol Sports",
-    "category": "Spor",
-    "logo": "https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250815850937.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/e71f5266-932f-4348-a530-ee3a48520e3e.m3u8",
-    "id": "69"
-  },
-  {
-    "name": "Tivibu Spor",
-    "category": "Spor",
-    "logo": "https://i1.sndcdn.com/avatars-000335394613-kvru7x-t1080x1080.jpg",
-    "url": "https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8",
-    "id": "70"
-  },
-  {
-    "name": "FB TV",
-    "category": "Spor",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/aefc429a-87c3-44f1-9caa-6687f04515b8.m3u8",
-    "id": "72"
-  },
-  {
-    "name": "Sıfır TV",
-    "category": "Spor",
-    "logo": "https://sifirtv.com/sifir-tv-logo.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8",
-    "id": "73"
-  },
-  {
-    "name": "TJK TV",
-    "category": "Spor",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/2/29/TJKTV_Logo.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/87525bc2-91d5-46e9-8aa0-45bc8ed34823.m3u8",
-    "id": "74"
-  },
-  {
-    "name": "TJK TV 2",
-    "category": "Spor",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/2/29/TJKTV_Logo.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/ef940100-cef5-4df1-ab1b-5d4357e3c9ce.m3u8",
-    "id": "75"
-  },
-  {
-    "name": "Tay TV",
-    "category": "Spor",
-    "logo": "https://assets.uzunmuhalefet.com/logos/3446fb88-4fb6-4e6f-aa5d-9eed92efbb97.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/fbee70a1-4177-4906-86cc-525432cef179.m3u8",
-    "id": "76"
-  },
-  {
-    "name": "Briç ve Satranç TV",
-    "category": "Spor",
-    "logo": "https://assets.uzunmuhalefet.com/logos/209495ee-35fc-47b8-b442-f9a410110970.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/dd128396-37c6-4ec8-88d0-995c9f1a2e67.m3u8",
-    "id": "77"
-  },
-  {
-    "name": "ZTK TV",
-    "category": "Spor",
-    "logo": "https://assets.uzunmuhalefet.com/logos/7e78574b-3f13-443d-859a-9948e7bc4381.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/9a23eaad-ed04-4717-90a4-77984b84553e.m3u8",
-    "id": "78"
-  },
-  {
-    "name": "TRT Müzik",
-    "category": "Müzik",
-    "logo": "https://cdn.technettv.com/channel/20630/logo_256_1699961878.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/6583f90f-0bff-4523-9547-1c9a96280b2e.m3u8",
-    "id": "80"
-  },
-  {
-    "name": "Dream Türk",
-    "category": "Müzik",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnX_gy3yBn7Cz90lnP8hI_HBWr2loGRyghJw&s",
-    "url": "https://streams.uzunmuhalefet.com/stream/99d052f1-9bdc-4fc2-ba48-2db6d9c99b8c.m3u8",
-    "id": "81"
-  },
-  {
-    "name": "Powertürk TV",
-    "category": "Müzik",
-    "logo": "https://www.phonostar.de/images/auto_created/Power_Tuerk2184x184.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/08667b7a-2535-4cc1-9719-76cf7df77eaa.m3u8",
-    "id": "82"
-  },
-  {
-    "name": "Power TV",
-    "category": "Müzik",
-    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/power-tv-tr.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/32907510-bd78-4bba-9972-343311a9e4bd.m3u8",
-    "id": "83"
-  },
-  {
-    "name": "Number 1 Türk",
-    "category": "Müzik",
-    "logo": "https://images.open-epg.com/12793.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/1eb6107d-6e37-479a-a81d-7999287bc876.m3u8",
-    "id": "84"
-  },
-  {
-    "name": "Number 1 TV",
-    "category": "Müzik",
-    "logo": "https://play-lh.googleusercontent.com/5M8Pz7xdTslLSDVLN7IXsTfg52ICXhEBT8C3PQkuA43Hxf7ARadz25cHat3oNbCuR5zo",
-    "url": "https://streams.uzunmuhalefet.com/stream/03ed48c8-903f-433f-8974-1d11bd50d34c.m3u8",
-    "id": "85"
-  },
-  {
-    "name": "Kral Pop TV",
-    "category": "Müzik",
-    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/kral-pop-tr.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/1604703d-b882-4ea0-9c4d-bc4ea1f0d463.m3u8",
-    "id": "86"
-  },
-  {
-    "name": "TMB TV",
-    "category": "Müzik",
-    "logo": "https://tmb.tv/wp-content/uploads/2022/12/cropped-transparent-bg-shadow-designify.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/56ac94c5-5fba-4265-9170-1fbb136551f8.m3u8",
-    "id": "87"
-  },
-  {
-    "name": "Powertürk Taptaze",
-    "category": "Müzik",
-    "logo": "https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_43.png?v4",
-    "url": "https://streams.uzunmuhalefet.com/stream/90969937-2a23-4f9a-9b6f-f779ae3c8900.m3u8",
-    "id": "88"
-  },
-  {
-    "name": "Powertürk Slow",
-    "category": "Müzik",
-    "logo": "https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v4",
-    "url": "https://streams.uzunmuhalefet.com/stream/65d41f62-6a93-495a-813e-95bcd492fc69.m3u8",
-    "id": "89"
-  },
-  {
-    "name": "Powertürk Akustik",
-    "category": "Müzik",
-    "logo": "https://www.radio.de/300/powerturkakustik.png?versionde248764e27414b5dd02a0ae8bfd4622",
-    "url": "https://streams.uzunmuhalefet.com/stream/9ff07184-e92e-4f45-a0de-1df42c636c7a.m3u8",
-    "id": "90"
-  },
-  {
-    "name": "Power Love",
-    "category": "Müzik",
-    "logo": "https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/be9d7155-46eb-4a0b-9692-36e442a7245b.m3u8",
-    "id": "91"
-  },
-  {
-    "name": "Power Dance",
-    "category": "Müzik",
-    "logo": "https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_40.png?v=4",
-    "url": "https://streams.uzunmuhalefet.com/stream/891fa76f-923b-4488-890b-367217b83811.m3u8",
-    "id": "92"
-  },
-  {
-    "name": "Number 1 Aşk",
-    "category": "Müzik",
-    "logo": "https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/3924f253-02b8-420d-aafc-b0857fc5f1e4.m3u8",
-    "id": "93"
-  },
-  {
-    "name": "Number 1 Damar",
-    "category": "Müzik",
-    "logo": "https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/58d0bde4-4d7e-42f0-a881-491714d816c9.m3u8",
-    "id": "94"
-  },
-  {
-    "name": "Number 1 Dance",
-    "category": "Müzik",
-    "logo": "https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/45d6ce7c-87a1-46a3-b1ac-efddd14838e0.m3u8",
-    "id": "95"
-  },
-  {
-    "name": "4 Türk Pop",
-    "category": "Müzik",
-    "logo": "https://pic.rtbcdn.ru/video/93/2f/932f0ae97477a98a8ecdf02b46893a44.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/031834d1-2c3c-4e76-9f54-bb8a6471bcb2.m3u8",
-    "id": "96"
-  },
-  {
-    "name": "Müzik TV",
-    "category": "Müzik",
-    "logo": "https://images.seeklogo.com/logo-png/42/1/apple-music-logo-png_seeklogo-426386.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/ba3f9a6d-85a8-4100-b716-95b98a2a3ab3.m3u8",
-    "id": "97"
-  },
-  {
-    "name": "TRT Belgesel",
-    "category": "Belgesel",
-    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-belgesel-tr.png",
-    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-    "id": "99"
-  },
-  {
-    "name": "CGTN Belgesel",
-    "category": "Belgesel",
-    "logo": "https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/2bd10121-51a7-4de7-9aaa-8b0db19bdd3b.m3u8",
-    "id": "101"
-  },
-  {
-    "name": "Yaban TV",
-    "category": "Belgesel",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8",
-    "id": "102"
-  },
-  {
-    "name": "Çiftçi TV",
-    "category": "Belgesel",
-    "logo": "https://assets.uzunmuhalefet.com/logos/0a4992bf-7c3d-41ae-aa0d-e44ecb1ac0cb.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/e71083cf-eb54-408b-8aba-d66690520801.m3u8",
-    "id": "103"
-  },
-  {
-    "name": "Toprak TV",
-    "category": "Belgesel",
-    "logo": "https://assets.uzunmuhalefet.com/logos/dd4da8fc-609f-4d05-8adb-9bba0f584738.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/54fd8806-0142-4839-930e-aa1d662ad866.m3u8",
-    "id": "104"
-  },
-  {
-    "name": "TRT Çocuk",
-    "category": "Çocuk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8",
-    "id": "105"
-  },
-  {
-    "name": "TRT Diyanet Çocuk",
-    "category": "Çocuk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TRT_Diyanet_%C3%87ocuk_logo.svg/1280px-TRT_Diyanet_%C3%87ocuk_logo.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/f0091bbb-4942-46ed-864b-2eb9d92d9869.m3u8",
-    "id": "106"
-  },
-  {
-    "name": "TRT EBA",
-    "category": "Çocuk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/250px-TRT_EBA_TV_logo.svg.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3u8",
-    "id": "107"
-  },
-  {
-    "name": "Minika Çocuk",
-    "category": "Çocuk",
-    "logo": "https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-cocuk-tr.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8",
-    "id": "108"
-  },
-  {
-    "name": "Minika Go",
-    "category": "Çocuk",
-    "logo": "https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-go-tr.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3u8",
-    "id": "109"
-  },
-  {
-    "name": "Cartoon Network",
-    "category": "Çocuk",
-    "logo": "https://i.ibb.co/X5yPXkD/cartoon-network.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8",
-    "id": "110"
-  },
-  {
-    "name": "Çizgi Film TV",
-    "category": "Çocuk",
-    "logo": "https://static.vecteezy.com/system/resources/thumbnails/052/548/183/small_2x/kids-tv-logo-design-free-vector.jpg",
-    "url": "https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8",
-    "id": "111"
-  },
-  {
-    "name": "Çocuklara Özel TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/34388388-0510-4d4e-84ed-a9c6cc298742.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/65620b64-3756-4edc-82e9-6784dd532d1c.m3u8",
-    "id": "112"
-  },
-  {
-    "name": "Diyanet TV",
-    "category": "Dini",
-    "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9fac001-ce36-4712-9eaa-786ec2465171.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/5f266099-5038-49e9-aa50-3b7b88d70657.m3u8",
-    "id": "113"
-  },
-  {
-    "name": "Vav TV",
-    "category": "Dini",
-    "logo": "https://images.open-epg.com/12858.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/93329d75-7b41-414e-886e-9c05783bb35f.m3u8",
-    "id": "114"
-  },
-  {
-    "name": "Semerkand TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/6e24cdc2-7c5a-480e-baa0-7e7164e83f43.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/928b9f56-271c-440f-90ec-bedd7efc8f5f.m3u8",
-    "id": "115"
-  },
-  {
-    "name": "Semerkand Way",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/414741a6-2fd4-4117-978c-3ee8b0f4d099.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3u8",
-    "id": "116"
-  },
-  {
-    "name": "Dost TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/1e6619aa-53c0-4fbd-ba2c-cdbf3f301d7c.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/8c40da6c-cbfb-48f9-a38e-0b419d8c121f.m3u8",
-    "id": "117"
-  },
-  {
-    "name": "Meltem TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/b42ad734-129d-46e4-a6ce-7e55ac444d53.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/f49b3cb6-cd33-4064-97a1-8b0c79d3681a.m3u8",
-    "id": "118"
-  },
-  {
-    "name": "İkra TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/44dd0128-9d22-4aed-b9ca-375b90cdb06e.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/602a8ce2-6f9b-4879-aa1a-42b9ac39628a.m3u8",
-    "id": "119"
-  },
-  {
-    "name": "On4 TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/701fea2e-b6d9-42a1-a914-30772ead29f9.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/a1fe7242-b547-4db8-b6e3-217fb277b1a8.m3u8",
-    "id": "120"
-  },
-  {
-    "name": "Lalegül TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/ecd7f394-fab5-4a93-88cc-b59f8abfa838.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/2f818fdb-97ae-41c5-8bbf-ca099b687d9a.m3u8",
-    "id": "121"
-  },
-  {
-    "name": "Kanal 12",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/59fcc8b0-6ead-4af0-8e58-5a9dd6c9615f.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/9947c43e-56a6-44f0-b1a3-dffad5f49fa2.m3u8",
-    "id": "122"
-  },
-  {
-    "name": "Rehber TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/e0e94025-cf7c-4aea-95b4-99c550341b24.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/a3f446e5-a870-47f2-b351-dee7c6f163a4.m3u8",
-    "id": "123"
-  },
-  {
-    "name": "ASF TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/63ab6f05-64e3-4989-8923-96e9fc48f718.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/5acee5fd-c58a-4029-b7e2-b2657368287f.m3u8",
-    "id": "124"
-  },
-  {
-    "name": "Al Zahra Turkic",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/1f737ade-62fd-4bb1-aee2-85ab19eb90c7.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/8c948503-cf69-4629-b7fd-7921ba357f3d.m3u8",
-    "id": "125"
-  },
-  {
-    "name": "Sat 7 Türk",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/643d83ac-c463-453c-987c-fd59d13fd71d.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/d9dfc4a4-61aa-4896-b643-8ee17b4e6d2e.m3u8",
-    "id": "126"
-  },
-  {
-    "name": "ABN Turkey",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/cbd9f19f-efa2-4416-923c-46cda842668a.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/93a58e6e-7324-41da-bbc8-32f530063417.m3u8",
-    "id": "127"
-  },
-  {
-    "name": "Kanal Hayat",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/73be47b9-407a-4ea1-afc4-6b8b17c52816.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/bfdc3cb7-5d87-400d-8e53-dd3be3c6f69a.m3u8",
-    "id": "128"
-  },
-  {
-    "name": "İlmihal TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/b3bcdc01-4bcf-4254-9099-93a9e4a388c6.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/e700bdbb-4c5b-4de3-8e48-b2a4ec78efbd.m3u8",
-    "id": "129"
-  },
-  {
-    "name": "Asr-ı Saadet TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/66e1e910-6e61-46f3-8bc7-b7f784da9f89.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/04ad8ba3-816b-45ff-bb66-5519a0cd349c.m3u8",
-    "id": "130"
-  },
-  {
-    "name": "Aşr-ı Şerif TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/66894e0c-c527-4b23-853a-388e17770fec.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/2a5c0961-edbd-4e43-a973-289983b8ec97.m3u8",
-    "id": "131"
-  },
-  {
-    "name": "İlahi TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/6ec099fe-b9f9-4bcd-a0b4-64be098c6333.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/b3ba2a0f-bbfd-426d-8b44-bf4096245d0a.m3u8",
-    "id": "132"
-  },
-  {
-    "name": "İslam TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/2c260a1a-2842-462f-bd88-795842e2da49.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/9ec8878d-d974-4d65-8c4c-dda9e70c3628.m3u8",
-    "id": "133"
-  },
-  {
-    "name": "Kültür ve Sanat TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/e22ad125-fbcb-4d96-af58-33669ea2ceb9.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/d8f27cac-4831-464f-a8be-22926200851f.m3u8",
-    "id": "134"
-  },
-  {
-    "name": "Kuran-ı Kerim Dersleri",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/479a3fa8-3e1d-4af3-9ae7-76de1d759f73.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/4d9f1bdf-9eef-47e9-8a88-1b37efcedb50.m3u8",
-    "id": "135"
-  },
-  {
-    "name": "Aile TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/5e63f19b-71d9-4a94-93ba-09a1e7010c94.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/26e3e3a2-8847-4e4b-b4e1-f2b234494e1d.m3u8",
-    "id": "136"
-  },
-  {
-    "name": "Mukabele TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/bb12a541-0c0f-4058-b1fd-e5ce33c94ed4.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/3e33b77e-4d15-4651-838b-1148fb8db706.m3u8",
-    "id": "137"
-  },
-  {
-    "name": "Belgesel TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/d2b898dd-94f6-4693-8817-355e87d26d5b.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/c452f35c-c2c5-497f-af4d-df2276bb182a.m3u8",
-    "id": "138"
-  },
-  {
-    "name": "Tarih TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/b0fa4bb3-a869-47fb-911c-b0bf7abca7c2.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/eba68735-fbfb-4dcd-8eaa-a39bdb413d81.m3u8",
-    "id": "139"
-  },
-  {
-    "name": "Vaaz TV",
-    "category": "Dini",
-    "logo": "https://assets.uzunmuhalefet.com/logos/be0a02ec-3296-4e7b-8387-0d588693116f.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/09274a64-3c48-442a-8061-dd4b2651c537.m3u8",
-    "id": "140"
-  },
-  {
-    "name": "Erzurum Web TV",
-    "category": "Kurumlar",
-    "logo": "https://assets.uzunmuhalefet.com/logos/7c837a96-f999-43a0-8e78-f1e48d34517a.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/bdcb40cb-0d48-4ac5-adc2-d8c04518ee66.m3u8",
-    "id": "315"
-  },
-  {
-    "name": "BRT 1",
-    "category": "Kıbrıs",
-    "logo": "https://assets.uzunmuhalefet.com/logos/b541d9f3-8991-46cc-a96e-1e8c99dd6f8e.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/87fee393-281a-499c-97c3-18ff5c7b2289.m3u8",
-    "id": "316"
-  },
-  {
-    "name": "BRT 2",
-    "category": "Kıbrıs",
-    "logo": "https://assets.uzunmuhalefet.com/logos/34fb31ce-3a6c-4d7b-b731-c7e08cc6c66a.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/9dde3626-6984-4f64-9683-dc3b3d0a843d.m3u8",
-    "id": "317"
-  },
-  {
-    "name": "Ada TV",
-    "category": "Kıbrıs",
-    "logo": "https://assets.uzunmuhalefet.com/logos/8d64858c-5307-409d-9c62-dcc98589c043.png",
-    "url": "https://streams.uzunmuhalefet.com/stream/975e6a82-279a-4b00-a9b4-85c92f480803.m3u8",
-    "id": "318"
-  },
-  {
-    "name": "TRT GENÇ",
-    "category": "Ulusal",
-    "logo": "https://pbs.twimg.com/profile_images/2009963534021459968/JwBVdge0_400x400.jpg",
-    "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
-    "id": "1"
+    "kategori": "Diğer"
   }
 ]
