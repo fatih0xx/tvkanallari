@@ -21,6 +21,13 @@
     "id": "3"
   },
   {
+    "name": "NOW TV",
+    "category": "Ulusal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/960px-NOW_TV_%28Turkey%29_wordmark-red.svg.png",
+    "url": "http://tv.smartglwiz.workers.dev/?ID=Now_HD",
+    "id": "4"
+  },
+  {
     "name": "Show TV",
     "category": "Ulusal",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png",
@@ -47,6 +54,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",
     "url": "https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8",
     "id": "8"
+  },
+  {
+    "name": "Star TV",
+    "category": "Ulusal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV_%282011-2017%29.svg/960px-Logo_Star_TV_%282011-2017%29.svg.png",
+    "url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
+    "id": "9"
   },
   {
     "name": "360 TV",
@@ -84,6 +98,13 @@
     "id": "14"
   },
   {
+    "name": "CNN Türk",
+    "category": "Haber",
+    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/cnn-turk-tr.png",
+    "url": "http://87.121.104.29:1798/cnnytcanli/stream.m3u8",
+    "id": "15"
+  },
+  {
     "name": "TGRT Haber",
     "category": "Haber",
     "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/tgrt-haber-tr.png",
@@ -96,6 +117,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habert%C3%BCrk_logo.svg/1200px-Habert%C3%BCrk_logo.svg.png",
     "url": "https://streams.uzunmuhalefet.com/stream/0c0bc91d-ce3a-49cc-9054-1cff110967c4.m3u8",
     "id": "17"
+  },
+  {
+    "name": "Haber Global",
+    "category": "Haber",
+    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/haber-global-tr.png",
+    "url": "https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8",
+    "id": "18"
   },
   {
     "name": "Ülke TV",
@@ -175,11 +203,24 @@
     "id": "29"
   },
   {
+    "name": "Flash Haber TV",
+    "category": "Haber",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Flash_haber_tv_2025.png",
+    "url": "http://87.121.104.29:1798/flashhaberyt/stream.m3u8",
+    "id": "30"
+  },
+  {
     "name": "Lider Haber TV",
     "category": "Haber",
     "logo": "https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2025/10/lider-4-2.png",
     "url": "https://streams.uzunmuhalefet.com/stream/5b8db41e-b662-4652-bd8a-fc198ceb33f4.m3u8",
     "id": "31"
+  },
+  {
+    "name": "Bi Kanal",
+    "category": "Ulusal",
+    "logo": "https://static.ssportplus.com/wp-content/uploads/2025/09/kanallar_bikanal.png",
+    "url": "http://live.cdn-vizi.workers.dev/?ID=103"
   },
   {
     "name": "Neo Haber",
@@ -414,6 +455,13 @@
     "id": "62"
   },
   {
+    "name": "beIN SPORTS HABER",
+    "category": "SPOR",
+    "logo": "https://yt3.ggpht.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g",
+    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8",
+    "id": "64"
+  },
+  {
     "name": "TRT Spor",
     "category": "Spor",
     "logo": "https://cdn.technettv.com/channel/20770/logo_256_1699963394.png",
@@ -454,6 +502,13 @@
     "logo": "https://i1.sndcdn.com/avatars-000335394613-kvru7x-t1080x1080.jpg",
     "url": "https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8",
     "id": "70"
+  },
+  {
+    "name": "Sports TV",
+    "category": "Spor",
+    "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ce3a853a-b638-44b8-b4f4-9728aec137d3.png",
+    "url": "http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD",
+    "id": "71"
   },
   {
     "name": "FB TV",
@@ -503,6 +558,13 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/7e78574b-3f13-443d-859a-9948e7bc4381.png",
     "url": "https://streams.uzunmuhalefet.com/stream/9a23eaad-ed04-4717-90a4-77984b84553e.m3u8",
     "id": "78"
+  },
+  {
+    "name": "beIN SPORTS HABER",
+    "category": "SPOR",
+    "logo": "https://yt3.ggpht.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g",
+    "url": "http://live.yt-hls.workers.dev/UCPe9vNjHF1kEExT5kHwc7aw.m3u8",
+    "id": "64"
   },
   {
     "name": "TRT Müzik",
@@ -636,6 +698,13 @@
     "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-belgesel-tr.png",
     "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
     "id": "99"
+  },
+  {
+    "name": "TGRT Belgesel",
+    "category": "Belgesel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/960px-TGRT_Belgesel_logo.png",
+    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgrt_Belgesel.m3u8",
+    "id": "100"
   },
   {
     "name": "CGTN Belgesel",
@@ -951,6 +1020,13 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/b74b51a2-0659-45a5-8c82-2f3ed680eca4.png",
     "url": "https://streams.uzunmuhalefet.com/stream/ed581547-9735-4ad1-804d-8ab925446060.m3u8",
     "id": "145"
+  },
+  {
+    "name": "Bizim Ev",
+    "category": "Diğer",
+    "logo": "https://yt3.googleusercontent.com/5KLD4QmX3I_Hwc4wrTpdqkcoVdTJfj86ABhRIkEV1ZtJ2jXNGWnqL-CLOjuC3MHM6hQLCgL4=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/bizimevyt/stream.m3u8",
+    "tvgName": "Bizim Ev - YT"
   },
   {
     "name": "Bizim Ocak TV",
@@ -2169,5 +2245,702 @@
     "logo": "https://pbs.twimg.com/profile_images/2009963534021459968/JwBVdge0_400x400.jpg",
     "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
     "id": "1"
+  },
+  {
+    "name": "Xəzər TV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/10423/logo_256_1659589825.jpeg",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/xezertv"
+  },
+  {
+    "name": "ATV Azerbaycan",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/10424/logo_256.jpeg",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/atvaz"
+  },
+  {
+    "name": "Azərbaycan Televiziyası",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14722/logo_256.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/aztv"
+  },
+  {
+    "name": "Ictimai Televiziya",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/10422/logo_256.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/itv"
+  },
+  {
+    "name": "ARB",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14680/logo_256_1659591816.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/arb"
+  },
+  {
+    "name": "CBC",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/10421/logo_256_1660800461.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/cbc"
+  },
+  {
+    "name": "ARB 24",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14687/logo_256_1659591924.jpg",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/arb24"
+  },
+  {
+    "name": "BakuTV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/33027/logo_256.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/bakutv"
+  },
+  {
+    "name": "Space TV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14743/logo_256_1659592875.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/spacetv"
+  },
+  {
+    "name": "Real TV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14736/logo_256_1659592776.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/realtv"
+  },
+  {
+    "name": "ARB Günəş",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14694/logo_256_1659592213.jpg",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/arbgunes"
+  },
+  {
+    "name": "Mədəniyyət TV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14715/logo_256_1659592459.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/medeniyyettv"
+  },
+  {
+    "name": "Dünya TV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14757/logo_256_1659593250.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/dunyatv"
+  },
+  {
+    "name": "Kanal S",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14701/logo_256_1659592190.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/kanals"
+  },
+  {
+    "name": "GunAz TV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14778/logo_256_1659593579.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/gunaztv"
+  },
+  {
+    "name": "LivetvAZ",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/33048/logo_256.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/livetvaz"
+  },
+  {
+    "name": "Music Azerbaycan",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/32194/logo_256.jpg",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/musicazerbaycan"
+  },
+  {
+    "name": "Music Azerbaycan Hit",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/33090/logo_256.jpg",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/musicazerbaycanhit"
+  },
+  {
+    "name": "TMB TV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/14764/logo_256_1659593394.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/tmbtv"
+  },
+  {
+    "name": "MyzTV",
+    "category": "AZERBAYCAN",
+    "logo": "https://cdn.technettv.com/channel/33020/logo_256.png",
+    "url": "https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/myztv"
+  },
+  {
+    "name": "TRT FM",
+    "category": "Radyo",
+    "logo": "https://www.trt.net.tr/_nuxt/img/trt-fm-radyo-kanali.f4fa31f.png",
+    "url": "https://rd-trtfm.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Türkü",
+    "category": "Radyo",
+    "logo": "https://www.trt.net.tr/_nuxt/img/trt-turku-radyo-kanali.7cd2153.png",
+    "url": "https://rd-trtturku.medya.trt.com.tr/master_128.m3u8"
+  },
+  {
+    "name": "TRT Nagme",
+    "category": "Radyo",
+    "logo": "https://www.trt.net.tr/_nuxt/img/trt-nagme-radyo-kanali.287afc0.png",
+    "url": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Radyo 1",
+    "category": "Radyo",
+    "logo": "https://www.trt.net.tr/_nuxt/img/trt-radyo-1-radyo-kanali.1dc612f.png",
+    "url": "https://trt.radyotvonline.net/trt1"
+  },
+  {
+    "name": "TRT Radyo Haber",
+    "category": "Radyo",
+    "logo": "https://www.trt.net.tr/_nuxt/img/trt-radyo-haber-radyo-kanali.4efd784.png",
+    "url": "https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Radyo 3",
+    "category": "Radyo",
+    "logo": "https://www.trt.net.tr/_nuxt/img/trt-radyo-3-radyo-kanali.101a3cf.png",
+    "url": "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "Türkiye Polis Radyosu",
+    "category": "Radyo",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/faj3mgnsmwzu.png",
+    "url": "https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "Haber Türk Radyo",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/haber-turk-radyo.jpg",
+    "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo"
+  },
+  {
+    "name": "A Haber Radyo",
+    "category": "Radyo",
+    "logo": "https://turkey.mom-rsf.org/uploads/_processed_/f/b/csm_A_hbr_Radyo_03_19ffd21adf.png",
+    "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8"
+  },
+  {
+    "name": "NTV Radyo",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/ntv-radyo.jpg",
+    "url": "http://ntvrdwmp.radyotvonline.com/;"
+  },
+  {
+    "name": "CNN Türk Radyo",
+    "category": "Radyo",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20200820184850%21Cnnturkradyo.jpg",
+    "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8"
+  },
+  {
+    "name": "A Spor Radyo",
+    "category": "Radyo",
+    "logo": "https://www.radio.net/300/aspor.png",
+    "url": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8"
+  },
+  {
+    "name": "Radyo Spor",
+    "category": "Radyo",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/0/07/Radyospor-logo.PNG",
+    "url": "http://live4.radyotvonline.com:8160/;"
+  },
+  {
+    "name": "Lig Radyo",
+    "category": "Radyo",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/a/ac/Lig_Radyo_logo.png",
+    "url": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8"
+  },
+  {
+    "name": "Meteorolojinin Sesi",
+    "category": "Radyo",
+    "logo": "https://muzrad.com/wp-content/uploads/2017/05/muzrad_meteorolojinin-sesi-radyosunun-arayuzu-yenilendi.jpg",
+    "url": "https://radyomgm.canliyayinda.com/;"
+  },
+  {
+    "name": "Süper FM",
+    "category": "Radyo",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/f/ff/S%C3%BCper_FM_logo.png",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"
+  },
+  {
+    "name": "Süper 2 FM",
+    "category": "Radyo",
+    "logo": "https://mediacdns.karnaval.com/media/station_media/16/logos/android_default_logo.png",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_ITUNES.mp3"
+  },
+  {
+    "name": "Power FM",
+    "category": "Radyo",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/6/6c/Power_FM_logo.png",
+    "url": "https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio"
+  },
+  {
+    "name": "Alem FM",
+    "category": "Radyo",
+    "logo": "https://media.giphy.com/avatars/alemfm/JBnuJVfQAhJ4.png",
+    "url": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
+  },
+  {
+    "name": "Power Türk",
+    "category": "Radyo",
+    "logo": "https://www.phonostar.de/images/auto_created/Power_Tuerk2184x184.png",
+    "url": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8"
+  },
+  {
+    "name": "Power Pop",
+    "category": "Radyo",
+    "logo": "https://cdn.powergroup.com.tr/powerapp/channels/big/powerPop.png",
+    "url": "https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8"
+  },
+  {
+    "name": "Metro FM",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/metro-fm.jpg",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_ITUNES.mp3"
+  },
+  {
+    "name": "Virgin Radio Türkiye",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/virgin-radio.jpg",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3"
+  },
+  {
+    "name": "Radyo 7",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg",
+    "url": "https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8"
+  },
+  {
+    "name": "Kral FM",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kral-fm-dinle.jpg",
+    "url": "http://46.20.3.220/;"
+  },
+  {
+    "name": "Kral Pop",
+    "category": "Radyo",
+    "logo": "https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/kral-pop-tr.png",
+    "url": "http://46.20.3.201:80/"
+  },
+  {
+    "name": "Show Radyo",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/show-radyo.jpg",
+    "url": "https://windows.showradyo.com.tr/;"
+  },
+  {
+    "name": "Best FM",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png",
+    "url": "http://46.20.7.125/listen.pls"
+  },
+  {
+    "name": "Number 1 Türk FM",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/number-one-fm.jpg",
+    "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8"
+  },
+  {
+    "name": "Radyo Viva",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg",
+    "url": "http://46.20.3.230/;"
+  },
+  {
+    "name": "Radyo D",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-d-dinle.png",
+    "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
+  },
+  {
+    "name": "Radyo Fenomen",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-fenomen.jpg",
+    "url": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8"
+  },
+  {
+    "name": "Fenomen Türk",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/fenomen-turk.jpg",
+    "url": "https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8"
+  },
+  {
+    "name": "Slow Türk",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/slow-turk-dinle.jpg",
+    "url": "https://radyo.duhnet.tv/slowturk"
+  },
+  {
+    "name": "Pal Station",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-station.jpg",
+    "url": "http://shoutcast.radyogrup.com:1020/;"
+  },
+  {
+    "name": "Pal Nostalji",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/pal-nostalji-radyo.jpg",
+    "url": "http://shoutcast.radyogrup.com:1010/;"
+  },
+  {
+    "name": "Radyo 45lik",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/45lik-radyo-fm.jpg",
+    "url": "https://stream.radyo45lik.com:4545/stream"
+  },
+  {
+    "name": "Baba Radyo",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/babaradyo-100x100.jpg",
+    "url": "http://37.247.98.7:80/;stream.mp3"
+  },
+  {
+    "name": "Vav Radyo",
+    "category": "Radyo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vav_radyo_tr.png",
+    "url": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8"
+  },
+  {
+    "name": "Lalegül FM",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/lalegul-fm.jpg",
+    "url": "http://icecast.netmedya.net/lalegulfm"
+  },
+  {
+    "name": "Erkam Radyo",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/erkam-radyo.jpg",
+    "url": "https://yayin2.canliyayin.org:10910/;"
+  },
+  {
+    "name": "Diyanet Radyo",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/Diyanet-Radyo-100x100.jpg",
+    "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8"
+  },
+  {
+    "name": "Akra FM",
+    "category": "Radyo",
+    "logo": "https://akradyo.net/assets/img/logo-nav.svg",
+    "url": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8"
+  },
+  {
+    "name": "Kafa Radyo",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kafa-radyo.jpg",
+    "url": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8"
+  },
+  {
+    "name": "Radyo Seymen",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-seymen.jpg",
+    "url": "https://yayin.radyoseymen.com.tr:1070/stream"
+  },
+  {
+    "name": "Küpe FM",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kupe-fm.jpg",
+    "url": "https://icecast.netmedya.net/kupefm"
+  },
+  {
+    "name": "Radyo Dejavu",
+    "category": "Radyo",
+    "logo": "https://static.wixstatic.com/media/04f705_ffd04524f61a4dafbe016302cd9fe8f7~mv2.png/v1/fill/w_228,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/04f705_ffd04524f61a4dafbe016302cd9fe8f7~mv2.png",
+    "url": "https://radyodejavu.80.yayin.com.tr"
+  },
+  {
+    "name": "Radyo ODTÜ",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-odtu.jpg",
+    "url": "http://stream.radyoodtu.com.tr/rock;"
+  },
+  {
+    "name": "Radyo Pause",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-pause.png",
+    "url": "http://radyopause.ozelip.com.tr:8040/"
+  },
+  {
+    "name": "Radyo Trafik",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-trafik-canli.jpg",
+    "url": "http://46.20.3.201:80/"
+  },
+  {
+    "name": "Radyo Trio",
+    "category": "Radyo",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-trio.jpg",
+    "url": "http://radyotrio.radyotvonline.net/radyotrio"
+  },
+  {
+    "name": "Radyo Turkuvaz",
+    "category": "Radyo",
+    "logo": "https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/radyo-turkuvaz.png",
+    "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
+  },
+  {
+    "name": "Şömine",
+    "category": "Dinlenme Vakti",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTqhDOMt4sRBXclx0Iob8F6bhZ8bWLVg4tA&s",
+    "url": "http://87.121.104.29:1798/somine/stream.m3u8"
+  },
+  {
+    "name": "Relax Video",
+    "category": "Dinlenme Vakti",
+    "logo": "https://yt3.googleusercontent.com/lyUMCjkrkgDMTt8LjZ0w6nBg5QWI7HxNeydcyzcvlknIclBzSiWGgJ1oeOeurH79SAF6ijrb=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/rahatlamaseans/stream.m3u8"
+  },
+  {
+    "name": "Okyanus Sesleri",
+    "category": "Dinlenme Vakti",
+    "logo": "https://yt3.googleusercontent.com/-NCv9pGDDs4mIhznDQrpRUb_8HHt7MxyK0RzfnnXkL8rFkZ2bog9lZHNGh2t8U4IinRd9wrH=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+    "url": "http://87.121.104.29:1798/okyanus/stream.m3u8"
+  },
+  {
+    "name": "Rahatlatıcı Sesler",
+    "category": "Dinlenme Vakti",
+    "logo": "https://yt3.googleusercontent.com/cM2oNS3DZxfhTKrT5pNwCCRIYnaIJQyrVVeuH3KnHX89pHW2zqqKc5wur3MS0Z7Ld7kdJsoZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+    "url": "http://87.121.104.29:1798/rahatlaticises/stream.m3u8"
+  },
+  {
+    "name": "Orman Sesleri",
+    "category": "Dinlenme Vakti",
+    "logo": "https://i.ytimg.com/vi/hUC6wx0Zui4/hqdefault.jpg?v=68d35751&sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUk2TrO0lALYRbJmOZdO89nDO7QA",
+    "url": "http://87.121.104.29:1798/ormansesleri/stream.m3u8"
+  },
+  {
+    "name": "Aşk-ı Neva",
+    "category": "Dini",
+    "logo": "https://yt3.googleusercontent.com/f5POobR9VwXrL7HJ6NTBaN_QSjN8M-jvTdDfeEMXPgbyEEZDGIFdNelUYbcoVTZjjmSfMB6axnI=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/askinevayt/stream.m3u8"
+  },
+  {
+    "name": "Huzur Pinari Tv",
+    "category": "Dini",
+    "logo": "https://yt3.googleusercontent.com/ZK8nsLnz1StMpGKezOm6tQ69FBoXDKC8CdjdVVWd3uweqwO9i10-lMKd9pCySAc4ud0MadRVxS4=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/huzurpinariyt/stream.m3u8"
+  },
+  {
+    "name": "Rafadan Tayfa",
+    "category": "Çocuk",
+    "logo": "https://yt3.googleusercontent.com/6_jhTr2aolmOP8qNq24ReRalaiu8LNSX-OD4fh9wWcIALv67la_kYKHDe-2QjmGJ3GqH8UULVQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/trtcocukyt/stream.m3u8",
+    "tvgName": "TRT Çocuk YouTube - Rafadan Tayfa"
+  },
+  {
+    "name": "Neşeli Dünyam",
+    "category": "Çocuk",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_l3kNwTi1WBn4EDPvRSjt4jcNSBZ5GFzJXWhlwpk4FWSPY=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/neselidunyam/stream.m3u8"
+  },
+  {
+    "name": "Güldür Güldür 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.ggpht.com/i2TaaYn_QBW_W0xsJ79qFQ58bw28wKxlopm9Cocq6O_Ws-Z0C84ap3DI3Q5zm-2o22_Pru4YNQ=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "http://87.121.104.29:1798/guldurguldur/stream.m3u8"
+  },
+  {
+    "name": "ÇGH2 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.ggpht.com/9t3sdfGSLrbjII4g10IJhrDt1N2xtYrFavOGQq2IQSizJYlt6Z1x-COMZvPKJmySl_aU-Mkl=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "http://87.121.104.29:1798/cgh2/stream.m3u8"
+  },
+  {
+    "name": "Arkadaşım Hoş Geldin 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDPRI2u9ZNAS0OG2TEB54VNVJf8jjquCGZPuJ6IKjGGg=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/arkadasimhosgeldin/stream.m3u8"
+  },
+  {
+    "name": "Tolgshow 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDPRI2u9ZNAS0OG2TEB54VNVJf8jjquCGZPuJ6IKjGGg=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/tolgshow/stream.m3u8"
+  },
+  {
+    "name": "Kurtlar Vadisi 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/3pcRtdw7lKM3-d8rPyBn1mET0GTstFOx4EUqswlp4sGVFchaf31GXPcz3AjFgIssfvI-6Mgus-M=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/kurtlarvadisi/stream.m3u8"
+  },
+  {
+    "name": "Kurtlar Vadisi Pusu 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.ggpht.com/tql8fK5S3O4w5ONQcdlOqYkpy_BKAq1wcTt7GilOGf3GpkhdeqIw5f55YI1ZDo_p5_DcoDyB1A=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "http://87.121.104.29:1798/kurtlarvadisipusu/stream.m3u8"
+  },
+  {
+    "name": "Eşkıya Dünyaya Hükümdar Olmaz 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/TxAX1j0TdUlpfhmsbkCqtdFrM3AFV2DZGb6kef8TH80oOMDFEz2J2id5-SiWtDTcpH2mZhYGTg=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/edho/stream.m3u8"
+  },
+  {
+    "name": "Behzat Ç. 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/Z8zZMS4sIhD7JJi20qr1fMFtHlJ7-liknZqqCzPg-0PfQGhgRv4sMxvUfT4x11U5QnFp1VbmYg=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/behzatc/stream.m3u8"
+  },
+  {
+    "name": "Söz 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nJXAIa1X-ajL3YEj1hR9cXTnjqa6_G4UoQPpUylwpgbv8=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/soz/stream.m3u8"
+  },
+  {
+    "name": "Kuzey Güney 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/IYSskFu8LkkcG-tQjZT06DC3h598njGnWaubpOkA2nlTETHyIjIr0vTreVbBsGmVdrG80PGk=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/kuzeygunay/stream.m3u8"
+  },
+  {
+    "name": "Adanalı 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/2bi7q6AcVbEQwlxZSvTthnHUTK-83MKOSuuSwvLA3uwuki8sYv0HfBN27TJjL7CM8zuMH3HzDg=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/adanalı/stream.m3u8"
+  },
+  {
+    "name": "Sakarya Fırat 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/uWY07vykFzXT_mCT7Iz1xelhFK7HnhjGhIGAZlJk6stWVcaPBnJeZioRr_8DIHTEDwHBtWCm=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/sakaryafirat/stream.m3u8"
+  },
+  {
+    "name": "Aşk-ı Memnu 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/PDEALCyyxr3iZ2OpX4_vl5lQ5-7FaoRvihttV9R_gQcKCF7Q1RR7bGozobj9Ghh6ltkb_t8I=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/askimemnu/stream.m3u8"
+  },
+  {
+    "name": "Medcezir 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.ggpht.com/cfOW7mgPB708zO99P5xl87WNMYFOnUZ5HBhwzHREGwjB2tNhpMC0nee5F1FP3dwBaARXCdZP8Q=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "http://87.121.104.29:1798/medcezir/stream.m3u8"
+  },
+  {
+    "name": "Yaprak Dökümü 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/haTDIRamfCjs53RVuK8hHLD4V0z0Y5ZKrf20BEzGvZExlGa9D89RZkeD7Cx_XsbJnPHBC9qTxQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/yaprakdokumu/stream.m3u8"
+  },
+  {
+    "name": "Kemal Sunal 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/kemalsunal/stream.m3u8"
+  },
+  {
+    "name": "Gülşah Film 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/jHfMww520ZaX-PZ6CB5sqE5scVs0sl7Kgwc3rzzbzwa3IzXJy8iOyJM9WjLktwtLFgCbvpeZk9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+    "url": "http://87.121.104.29:1798/gulsahfilm/stream.m3u8"
+  },
+  {
+    "name": "Avrupa Yakası 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/5bkS9MmbYWqBp6L5YLW2GKbUHg3ccliSqtZPTEDIKyATdaixag3ZWtvzloxX3elaJ1fmta-Gsg=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/avrupayakasi/stream.m3u8"
+  },
+  {
+    "name": "Yalan Dünya 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/-YDPepLyRkCMnen3OV6-QRAuvJcqzOWB3igTxkuPbIdXcvFBpZ_i3LpPqXxjMHjAV-aAiSPKow=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/yalandunyayt/stream.m3u8"
+  },
+  {
+    "name": "Çocuklar Duymasın 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k2yAMqqZek-afJ0iWS-gMNfDR-1T_wWcjajhmZWMF3Kw=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/cocuklarduymasin/stream.m3u8"
+  },
+  {
+    "name": "Seksenler 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nZ3O2m76f5kZZZLC5XKkAgUzq4AaEEuT7UyquE2EVgBw=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/seksenleryt/stream.m3u8"
+  },
+  {
+    "name": "Leyla ile Mecnun 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/VvAVptRyVwMZ45DzlzEz2HJ738mBWncwZgb-xzuQQjqy9L7O649tKHOT-ujUBCixGQFMnBhUwQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/leylamecnun/stream.m3u8"
+  },
+  {
+    "name": "Cennet Mahallesi 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mKu0mjHEszLFRezgQr1A06wDsDZkvTnaNXbPn5_d0ZUA=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "http://87.121.104.29:1798/cennetmahallesi/stream.m3u8"
+  },
+  {
+    "name": "Zengin Kız Fakir Oğlan 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.ggpht.com/1YUINSwuuns9oNLOmYEQLkS9aNI_bE-hdOFTDF3S56Oq6rRBUWO_kd1ew2NkWmbj_4LznHe3V5M=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "http://87.121.104.29:1798/zenginkfakiro/stream.m3u8"
+  },
+  {
+    "name": "Alemin Kıralı 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/HXSuS7IOMucLzbl-UC6OeH_PV8ID9FoMdg54gufdfTaf-gLZf8X9XGLFa8hPwEsacfpmABy4gg=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/aleminkiraliyt/stream.m3u8"
+  },
+  {
+    "name": "Yedi Numara 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/f-uSffpGIqYV1DDww_6wa8wtgNvH3ujCNzCeDyk8jpTqvU-aazkDwSg59DolP5kRmyr6gqSs=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/yedinumarayt/stream.m3u8"
+  },
+  {
+    "name": "Fatmagül'ün Suçu Ne ? 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/H-nesJNqryOe9c4afu5y7DBxOjLRPtU0bPnrXDoaJT3N-gwkP2QNBrY423mLwGZF8yA_EVxUrQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/fatmagulyt/stream.m3u8"
+  },
+  {
+    "name": "Güller ve Günahlar 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.ggpht.com/JXJiwiydpEJxMhGq8aHtafCXE4ME_tbyrtpI5DS1SumFK5QKTvwwC3XDfIBvQWh7LFuPHsjGCw=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "http://87.121.104.29:1798/gullergunahlar/stream.m3u8"
+  },
+  {
+    "name": "TRT Nostalji 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/trtnostalji/stream.m3u8"
+  },
+  {
+    "name": "Yeşil Deniz 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/7X6QCeS0W93_Npl02OhYrpe4qx_9NfIka_lV_HdViwj0rxd452YmPchMwvVuj2tCgujcaTO7MA=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/yesildenizyt/stream.m3u8"
+  },
+  {
+    "name": "Gönül Dağı 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/zz6PtK-i5xDLSEID9h3fyAjJBVm0P3bdDtNWnldXYTYhvhMt0W9XdqC_VLL6uXlDpBp57EbNqg=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/gonuldagiyt/stream.m3u8"
+  },
+  {
+    "name": "Taşacak Bu Deniz 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/Cwpsz_Ra5vtrHpiI8KCtr6LhbBPqFHQ0vDHfRe0kXXNwbigVGFvjz4Qv_XxMru0DDji4thfBIQU=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/tasacakdenizyt/stream.m3u8"
+  },
+  {
+    "name": "Sihirli Annem 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/P54859eAfyuolskOUg4icbpgTTJV3meue0MwVlMSiPOUpUAzF_Hff3G-7O0bFoAfF1N2e1Pb=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/sihirliannem/stream.m3u8"
+  },
+  {
+    "name": "Bizimkiler 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/trtnostalji/stream2.m3u8"
+  },
+  {
+    "name": "Hz. Yusuf 7/24",
+    "category": "7/24 Youtube",
+    "logo": "https://yt3.googleusercontent.com/D3GSWb8PhVI6qvxe2pjY-CgyRfQk-pRlFigUMDb6_Ogndk5RFyJjmPR-2DT-jOFL4s5eyYyK=s160-c-k-c0x00ffffff-no-rj",
+    "url": "http://87.121.104.29:1798/hzyusufyt/stream.m3u8"
   }
 ]
