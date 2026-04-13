@@ -28,7 +28,7 @@
     "kategori": "Ulusal",
     "url": "http://tv.smartglwiz.workers.dev/?ID=Now_HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/960px-NOW_TV_%28Turkey%29_wordmark-red.svg.png",
-    "tvgName": "NOW TV",
+    "tvgName": "NOW",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
   {
@@ -84,7 +84,7 @@
     "kategori": "Ulusal",
     "url": "https://streams.uzunmuhalefet.com/stream/d95e9a1b-3955-4643-8327-413da9a1ce60.m3u8",
     "logo": "https://play-lh.googleusercontent.com/k5wrikGyT1yvqKKf3k_7MoUNUaAYARF0rGDX1I_PBppuczYoT-eP52LUTuW6xZbpGvY",
-    "tvgName": "TV 100",
+    "tvgName": "TV100",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
   {
@@ -204,7 +204,7 @@
     "kategori": "Haber",
     "url": "https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
-    "tvgName": "TELE1",
+    "tvgName": "Tele 1",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
   {
@@ -340,7 +340,7 @@
     "kategori": "Ulusal - Yurt Dışı",
     "url": "https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/250px-Show_Turk_logo.png",
-    "tvgName": "Show Türk",
+    "tvgName": "Show Turk",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
   {
@@ -444,7 +444,7 @@
     "kategori": "Eğlence",
     "url": "https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8",
     "logo": "https://tvprofil.com/img/kanali-logo/TV_8.5_TR_logo_v2.png?1734016644",
-    "tvgName": "TV 8.5",
+    "tvgName": "TV8.5",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
   {
@@ -1219,7 +1219,7 @@
     "ad": "Der TV 23",
     "kategori": "Diğer",
     "url": "https://streams.uzunmuhalefet.com/stream/20914270-70bf-4ef2-a3f3-6fc1db5d760a.m3u8",
-    "logo": "https://assets.uzunmuhalefet.com/logos/",
+    "logo": "",
     "tvgName": "Der TV 23",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
@@ -1243,7 +1243,7 @@
     "ad": "Esfa TV",
     "kategori": "Diğer",
     "url": "https://streams.uzunmuhalefet.com/stream/c5e55dba-fa9d-42d8-ae26-c58fc3a3b4b9.m3u8",
-    "logo": "https://assets.uzunmuhalefet.com/logos/",
+    "logo": "",
     "tvgName": "Esfa TV",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
@@ -1267,7 +1267,7 @@
     "ad": "Ezgi TV",
     "kategori": "Diğer",
     "url": "https://streams.uzunmuhalefet.com/stream/2cce7ce2-0d06-47fd-870e-086350ee528c.m3u8",
-    "logo": "https://assets.uzunmuhalefet.com/logos/",
+    "logo": "",
     "tvgName": "Ezgi TV",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
@@ -1291,7 +1291,7 @@
     "ad": "Filistin TV",
     "kategori": "Diğer",
     "url": "https://streams.uzunmuhalefet.com/stream/803f9436-3270-4ba8-b949-ee71f56ecf97.m3u8",
-    "logo": "https://assets.uzunmuhalefet.com/logos/",
+    "logo": "",
     "tvgName": "Filistin TV",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
@@ -1427,7 +1427,7 @@
     "ad": "Song TV",
     "kategori": "Diğer",
     "url": "https://streams.uzunmuhalefet.com/stream/51c96cb2-f19b-41d0-aaa3-2268afcdeef3.m3u8",
-    "logo": "https://assets.uzunmuhalefet.com/logos/",
+    "logo": "",
     "tvgName": "Song TV",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
@@ -1483,7 +1483,7 @@
     "ad": "Yansıma Sinema TV",
     "kategori": "Diğer",
     "url": "https://streams.uzunmuhalefet.com/stream/53925bf1-48ce-46e1-894b-d0fceb2ffea4.m3u8",
-    "logo": "https://assets.uzunmuhalefet.com/logos/",
+    "logo": "",
     "tvgName": "Yansıma Sinema TV",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
@@ -2251,7 +2251,7 @@
     "ad": "MK Türk",
     "kategori": "Yerel",
     "url": "https://streams.uzunmuhalefet.com/stream/d4565ce9-78b9-4acf-94ea-50e2d726a9d4.m3u8",
-    "logo": "https://assets.uzunmuhalefet.com/logos/",
+    "logo": "",
     "tvgName": "MK Türk",
     "epg": "https://streams.uzunmuhalefet.com/epg/tr.xml"
   },
