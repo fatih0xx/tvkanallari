@@ -739,7 +739,7 @@ https://windows.showradyo.com.tr/;
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png" ,Best FM
 http://46.20.7.125/listen.pls
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
-http://yayin.radyopop.site:1595/stream
+https://yayin.radyopop.site:1595/stream
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/number-one-fm.jpg" ,Number 1 Türk FM
 https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg" ,Radyo Viva
