@@ -740,6 +740,8 @@ https://windows.showradyo.com.tr/;
 http://46.20.7.125/listen.pls
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
 https://yayin.radyopop.site/radyo
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
+https://yayin.radyopop.site/nostalji
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/number-one-fm.jpg" ,Number 1 Türk FM
 https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg" ,Radyo Viva
