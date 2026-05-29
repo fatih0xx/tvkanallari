@@ -3045,3 +3045,111 @@ https://ataktvmarkam3u.hala-cozemedim.workers.dev/atvaz
 https://ataktvmarkam3u.hala-cozemedim.workers.dev/myztv
 #EXTINF:-1 group-title="🇦🇿 AZERBAYCAN" tvg-id="bakutv" tvg-logo="https://cdn.technettv.com/channel/33027/logo_256.png" ,Baku TV
 https://ataktvmarkam3u.hala-cozemedim.workers.dev/bakutv
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-fm-radyo-kanali.f4fa31f.png" ,TRT FM
+https://rd-trtfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-turku-radyo-kanali.7cd2153.png" ,TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-nagme-radyo-kanali.287afc0.png" ,TRT Nagme
+https://rd-trtnagme.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-radyo-1-radyo-kanali.1dc612f.png" ,TRT Radyo 1
+https://trt.radyotvonline.net/trt1
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-radyo-haber-radyo-kanali.4efd784.png" ,TRT Radyo Haber
+https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-radyo-3-radyo-kanali.101a3cf.png" ,TRT Radyo 3
+https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/faj3mgnsmwzu.png" ,Türkiye Polis Radyosu
+https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/haber-turk-radyo.jpg" ,Haber Türk Radyo
+https://haberturkradyo.radyotvonline.net/haberturkradyo
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://turkey.mom-rsf.org/uploads/_processed_/f/b/csm_A_hbr_Radyo_03_19ffd21adf.png" ,A Haber Radyo
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ntv-radyo.jpg" ,NTV Radyo
+http://ntvrdwmp.radyotvonline.com/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20200820184850%21Cnnturkradyo.jpg" ,CNN Türk Radyo
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.radio.net/300/aspor.png" ,A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/07/Radyospor-logo.PNG" ,Radyo Spor
+http://live4.radyotvonline.com:8160/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ac/Lig_Radyo_logo.png" ,Lig Radyo
+https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://muzrad.com/wp-content/uploads/2017/05/muzrad_meteorolojinin-sesi-radyosunun-arayuzu-yenilendi.jpg" ,Meteorolojinin Sesi
+https://radyomgm.canliyayinda.com/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/ff/S%C3%BCper_FM_logo.png" ,Süper FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://mediacdns.karnaval.com/media/station_media/16/logos/android_default_logo.png" ,Süper 2 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_ITUNES.mp3
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6c/Power_FM_logo.png" ,Power FM
+https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://media.giphy.com/avatars/alemfm/JBnuJVfQAhJ4.png" ,Alem FM
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.phonostar.de/images/auto_created/Power_Tuerk2184x184.png" ,Power Türk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerPop.png" ,Power Pop
+https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/metro-fm.jpg" ,Metro FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_ITUNES.mp3
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/virgin-radio.jpg" ,Virgin Radio Türkiye
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg" ,Radyo 7
+https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kral-fm-dinle.jpg" ,Kral FM
+http://46.20.3.220/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/kral-pop-tr.png" ,Kral Pop
+http://46.20.3.201:80/
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/show-radyo.jpg" ,Show Radyo
+https://windows.showradyo.com.tr/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png" ,Best FM
+http://46.20.7.125/listen.pls
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
+https://yayin.radyopop.site/radyo
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
+https://yayin.radyopop.site/nostalji
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/number-one-fm.jpg" ,Number 1 Türk FM
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg" ,Radyo Viva
+http://46.20.3.230/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-d-dinle.png" ,Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-fenomen.jpg" ,Radyo Fenomen
+https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/fenomen-turk.jpg" ,Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/slow-turk-dinle.jpg" ,Slow Türk
+https://radyo.duhnet.tv/slowturk
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-station.jpg" ,Pal Station
+http://shoutcast.radyogrup.com:1020/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/pal-nostalji-radyo.jpg" ,Pal Nostalji
+http://shoutcast.radyogrup.com:1010/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/45lik-radyo-fm.jpg" ,Radyo 45lik
+https://stream.radyo45lik.com:4545/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/babaradyo-100x100.jpg" ,Baba Radyo
+http://37.247.98.7:80/;stream.mp3
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Vav_radyo_tr.png" ,Vav Radyo
+https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/lalegul-fm.jpg" ,Lalegül FM
+http://icecast.netmedya.net/lalegulfm
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/erkam-radyo.jpg" ,Erkam Radyo
+https://yayin2.canliyayin.org:10910/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/Diyanet-Radyo-100x100.jpg" ,Diyanet Radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://akradyo.net/assets/img/logo-nav.svg" ,Akra FM
+https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kafa-radyo.jpg" ,Kafa Radyo
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-seymen.jpg" ,Radyo Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kupe-fm.jpg" ,Küpe FM
+https://icecast.netmedya.net/kupefm
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://static.wixstatic.com/media/04f705_ffd04524f61a4dafbe016302cd9fe8f7~mv2.png/v1/fill/w_228,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/04f705_ffd04524f61a4dafbe016302cd9fe8f7~mv2.png" ,Radyo Dejavu
+https://radyodejavu.80.yayin.com.tr
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-odtu.jpg" ,Radyo ODTÜ
+http://stream.radyoodtu.com.tr/rock;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-pause.png" ,Radyo Pause
+http://radyopause.ozelip.com.tr:8040/
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-trafik-canli.jpg" ,Radyo Trafik
+http://46.20.3.201:80/
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-trio.jpg" ,Radyo Trio
+http://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/radyo-turkuvaz.png" ,Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
