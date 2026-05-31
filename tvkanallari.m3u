@@ -707,6 +707,14 @@ https://boncuktvv.yalniz-senmi-zekisin.workers.dev/musicazerbaycanhit
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="Ayaz Tv" tvg-name="Ayaz Tv" group-title="AZERBAYCAN" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png",Ayaz Tv
 https://janya-ayaztv.vgcdn.net/ptnr-VipoTV/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
+https://yayin.radyopop.site/radyo
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
+https://yayin.radyopop.site/radyo-pop-turkce
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
+https://yayin.radyopop.site/nostalji
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i.ibb.co/QvgsqjP1/radyo-pop.png" ,Radyo Pop
+https://yayin.radyopop.site/radyo-pop-remix
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-fm-radyo-kanali.f4fa31f.png" ,TRT FM
 https://rd-trtfm.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-turku-radyo-kanali.7cd2153.png" ,TRT Türkü
