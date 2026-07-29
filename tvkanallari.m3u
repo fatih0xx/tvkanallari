@@ -1,6 +1,36 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fatih0xx/akkurttv-epg/refs/heads/main/epg.xml"
 #EXTINF:0 CUID="1" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="Türk UHD",TR:S SPORTS 1 UHD
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/d4c26f5e-08aa-4852-8800-df2f500b3242.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="Türk UHD",TR:S SPORTS 2 UHD
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/bd3e5285-f4bc-4b01-8a6e-abcb1e4d30f9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 8 HD (MAC ZAMANI AKTIF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen8.png" group-title="Türk Spor",TR:EXXEN SPORTS 8 HD (MAC ZAMANI AKTIF )
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/151cd822-6b6a-4dc0-b227-3ac68776f06f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="Türk Spor",TR:S SPORTS 1 HD
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/0896e65d-ad90-48ff-a8f1-50a3865d784e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="Türk Spor",TR:S SPORTS 2 HD
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/f0b5441a-2eca-4807-acfa-4dc23706f50c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 1 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport1.png" group-title="Türk Spor",TR:S SPORT PLUS 1 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/7fb9da4c-48c1-48be-971c-41bcb3c8ba9f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 2 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Türk Spor",TR:S SPORT PLUS 2 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/50c9a0cc-4edb-4f52-a38f-5cfeffef8125.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 3 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport3.png" group-title="Türk Spor",TR:S SPORT PLUS 3 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/37dc607b-7cda-4f2f-86f3-422c95dda8b3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 4 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport4.png" group-title="Türk Spor",TR:S SPORT PLUS 4 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/0887e6ac-b020-45e9-899a-b5e7fc58b3d1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 5 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport5.png" group-title="Türk Spor",TR:S SPORT PLUS 5 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/2f72ec8e-9d04-492c-ae0a-2c841e6f4e3b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 6 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport6.png" group-title="Türk Spor",TR:S SPORT PLUS 6 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/b1d6c1ae-a0b3-4fc4-857b-e01d403c7477.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 7 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport7.png" group-title="Türk Spor",TR:S SPORT PLUS 7 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/7e9119f8-6928-4bba-94fa-4b6bc91aac4f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 8 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport8.png" group-title="Türk Spor",TR:S SPORT PLUS 8 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/5effc911-d7e0-441f-aa05-48322ee321b6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 9 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport9.png" group-title="Türk Spor",TR:S SPORT PLUS 9 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/536c881a-4510-416f-989a-b43764cda777.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 10 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport10.png" group-title="Türk Spor",TR:S SPORT PLUS 10 UHD (MAC ZAMANI)
+http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/5007306f-b802-45e6-a8d0-73bec4c68d62.m3u
 #EXTINF:0 CUID="2" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:0 CUID="4" tvg-name="NOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/960px-NOW_TV_%28Turkey%29_wordmark-red.png" group-title="Ulusal",NOW TV
