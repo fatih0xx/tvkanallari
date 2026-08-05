@@ -3,6 +3,8 @@
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="Türk UHD",TR:S SPORTS 1 UHD
 http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/d4c26f5e-08aa-4852-8800-df2f500b3242.m3u
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="Türk UHD",TR:S SPORTS 2 UHD
 http://dnsgermany1.com/live/bynetx/TcLsxRhS7T/bd3e5285-f4bc-4b01-8a6e-abcb1e4d30f9.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 8 HD (MAC ZAMANI AKTIF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen8.png" group-title="Türk Spor",TR:EXXEN SPORTS 8 HD (MAC ZAMANI AKTIF )
