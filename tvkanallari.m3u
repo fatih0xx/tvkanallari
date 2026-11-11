@@ -1,1021 +1,1060 @@
 #EXTM3U
-#EXTINF:-1,✨ ✨ ULUSAL ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/194703
-#EXTINF:-1,TR: TRT 1 FHD
+
+
+# ========================================================
+# KATEGORİ: ULUSAL (52 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="ULUSAL",TR: TRT 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/44
-#EXTINF:-1,TR: TRT 1 HD
+#EXTINF:-1 group-title="ULUSAL",TR: TRT 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/43
-#EXTINF:-1,TR: ATV FHD
+#EXTINF:-1 group-title="ULUSAL",TR: ATV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/38
-#EXTINF:-1,TR: ATV HD
+#EXTINF:-1 group-title="ULUSAL",TR: ATV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/37
-#EXTINF:-1,TR: STAR TV FHD
+#EXTINF:-1 group-title="ULUSAL",TR: STAR TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/27
-#EXTINF:-1,TR: STAR TV HD
+#EXTINF:-1 group-title="ULUSAL",TR: STAR TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/26
-#EXTINF:-1,TR: SHOW TV FHD
+#EXTINF:-1 group-title="ULUSAL",TR: SHOW TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/30
-#EXTINF:-1,TR: SHOW TV HD
+#EXTINF:-1 group-title="ULUSAL",TR: SHOW TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/29
-#EXTINF:-1,TR: KANAL D FHD
+#EXTINF:-1 group-title="ULUSAL",TR: KANAL D FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/33
-#EXTINF:-1,TR: KANAL D HD
+#EXTINF:-1 group-title="ULUSAL",TR: KANAL D HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/32
-#EXTINF:-1,TR: NOW TV FHD
+#EXTINF:-1 group-title="ULUSAL",TR: NOW TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/24
-#EXTINF:-1,TR: NOW TV HD
+#EXTINF:-1 group-title="ULUSAL",TR: NOW TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/23
-#EXTINF:-1,TV8 FHD
+#EXTINF:-1 group-title="ULUSAL",TV8 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/35
-#EXTINF:-1,TR: TV8 HD
+#EXTINF:-1 group-title="ULUSAL",TR: TV8 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/34
-#EXTINF:-1,TR: TV 8,5 FHD
+#EXTINF:-1 group-title="ULUSAL",TR: TV 8,5 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/9
-#EXTINF:-1,TR: TV 8,5 HD
+#EXTINF:-1 group-title="ULUSAL",TR: TV 8,5 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/8
-#EXTINF:-1,TR: BEYAZ TV FHD
+#EXTINF:-1 group-title="ULUSAL",TR: BEYAZ TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/22
-#EXTINF:-1,TR: BEYAZ TV HD
+#EXTINF:-1 group-title="ULUSAL",TR: BEYAZ TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/21
-#EXTINF:-1,TR: TEVE 2 FHD
+#EXTINF:-1 group-title="ULUSAL",TR: TEVE 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/13
-#EXTINF:-1,TR: TEVE 2 HD
+#EXTINF:-1 group-title="ULUSAL",TR: TEVE 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/12
-#EXTINF:-1,TR: A2 FHD
+#EXTINF:-1 group-title="ULUSAL",TR: A2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/15
-#EXTINF:-1,TR: A2 HD
+#EXTINF:-1 group-title="ULUSAL",TR: A2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/14
-#EXTINF:-1,TR: KANAL 7 FHD
+#EXTINF:-1 group-title="ULUSAL",TR: KANAL 7 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/20
-#EXTINF:-1,TR: KANAL 7 HD
+#EXTINF:-1 group-title="ULUSAL",TR: KANAL 7 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/19
-#EXTINF:-1,TR: KANAL 7 AVRUPA
+#EXTINF:-1 group-title="ULUSAL",TR: KANAL 7 AVRUPA
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/18
-#EXTINF:-1,TR: 360 TV FHD
+#EXTINF:-1 group-title="ULUSAL",TR: 360 TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/17
-#EXTINF:-1,TR: 360 TV HD
+#EXTINF:-1 group-title="ULUSAL",TR: 360 TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/16
-#EXTINF:-1,TR: TV 4 FHD
+#EXTINF:-1 group-title="ULUSAL",TR: TV 4 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/11
-#EXTINF:-1,TR: TV 4 HD
+#EXTINF:-1 group-title="ULUSAL",TR: TV 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/10
-#EXTINF:-1,TR: BI KANAL
+#EXTINF:-1 group-title="ULUSAL",TR: BI KANAL
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/5
-#EXTINF:-1,TR: TABİİ TV
+#EXTINF:-1 group-title="ULUSAL",TR: TABİİ TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/4
-#EXTINF:-1,TR: KIBRIS TV
+#EXTINF:-1 group-title="ULUSAL",TR: KIBRIS TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1633
-#EXTINF:-1,TR: KIBRIS ADA TV
+#EXTINF:-1 group-title="ULUSAL",TR: KIBRIS ADA TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1631
-#EXTINF:-1,TR: KIBRIS GENC TV
+#EXTINF:-1 group-title="ULUSAL",TR: KIBRIS GENC TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1630
-#EXTINF:-1,TR: KIBRIS TV 2020
+#EXTINF:-1 group-title="ULUSAL",TR: KIBRIS TV 2020
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1632
-#EXTINF:-1,TR: KIBRIS KANAL T
+#EXTINF:-1 group-title="ULUSAL",TR: KIBRIS KANAL T
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1629
-#EXTINF:-1,TR: BRT 1
+#EXTINF:-1 group-title="ULUSAL",TR: BRT 1
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1628
-#EXTINF:-1,TR: BRT 2
+#EXTINF:-1 group-title="ULUSAL",TR: BRT 2
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1627
-#EXTINF:-1,TR: BRT 3
+#EXTINF:-1 group-title="ULUSAL",TR: BRT 3
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1626
-#EXTINF:-1,TR: TRT EBA
+#EXTINF:-1 group-title="ULUSAL",TR: TRT EBA
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/1
-#EXTINF:-1,TR: TRT 4K UHD
+#EXTINF:-1 group-title="ULUSAL",TR: TRT 4K UHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/40
-#EXTINF:-1,TR: TRT 4K FHD
+#EXTINF:-1 group-title="ULUSAL",TR: TRT 4K FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/39
-#EXTINF:-1,TR: TRT TURK
+#EXTINF:-1 group-title="ULUSAL",TR: TRT TURK
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/3
-#EXTINF:-1,TR: TRT AVAZ
+#EXTINF:-1 group-title="ULUSAL",TR: TRT AVAZ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/2
-#EXTINF:-1,TR: TRT 2 FHD
+#EXTINF:-1 group-title="ULUSAL",TR: TRT 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/42
-#EXTINF:-1,TR: TRT 2 HD
+#EXTINF:-1 group-title="ULUSAL",TR: TRT 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/41
-#EXTINF:-1,TR: SHOW MAX FHD  ↺
+#EXTINF:-1 group-title="ULUSAL",TR: SHOW MAX FHD  ↺
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/7
-#EXTINF:-1,TR: SHOW MAX HD
+#EXTINF:-1 group-title="ULUSAL",TR: SHOW MAX HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/6
-#EXTINF:-1,TR: ATV AVRUPA
+#EXTINF:-1 group-title="ULUSAL",TR: ATV AVRUPA
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/36
-#EXTINF:-1,TR: SHOW TURK
+#EXTINF:-1 group-title="ULUSAL",TR: SHOW TURK
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/28
-#EXTINF:-1,TR: EURO D
+#EXTINF:-1 group-title="ULUSAL",TR: EURO D
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/31
-#EXTINF:-1,TR: EURO STAR
+#EXTINF:-1 group-title="ULUSAL",TR: EURO STAR
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/25
-#EXTINF:-1,✨ ✨  ULUSAL HEVC ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195466
-#EXTINF:-1,TRT 1 QHD
+
+# ========================================================
+# KATEGORİ: ULUSAL HEVC (QHD) (60 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT 1 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92024
-#EXTINF:-1,TRT 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92025
-#EXTINF:-1,ATV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",ATV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92026
-#EXTINF:-1,SHOW TV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SHOW TV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92027
-#EXTINF:-1,STAR TV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",STAR TV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92028
-#EXTINF:-1,KANAL D QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",KANAL D QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92029
-#EXTINF:-1,NOW  TV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",NOW  TV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92030
-#EXTINF:-1,TV8 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TV8 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92031
-#EXTINF:-1,TV 8,5 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TV 8,5 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92032
-#EXTINF:-1,A2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",A2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92033
-#EXTINF:-1,BEYAZ TV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",BEYAZ TV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92034
-#EXTINF:-1,KANAL 7 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",KANAL 7 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92035
-#EXTINF:-1,TEVE 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TEVE 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92036
-#EXTINF:-1,NTV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",NTV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92037
-#EXTINF:-1,CNN TURK QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",CNN TURK QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92038
-#EXTINF:-1,TRT HABER QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT HABER QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92047
-#EXTINF:-1,360 TV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",360 TV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92044
-#EXTINF:-1,HABERTURK QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",HABERTURK QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92039
-#EXTINF:-1,24 TV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",24 TV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92043
-#EXTINF:-1,A PARA QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",A PARA QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92041
-#EXTINF:-1,A NEWS QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",A NEWS QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92040
-#EXTINF:-1,BLOOMBERGHT QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",BLOOMBERGHT QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92045
-#EXTINF:-1,TRT BELGESEL QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT BELGESEL QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92046
-#EXTINF:-1,NAT GEO WILD QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",NAT GEO WILD QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92083
-#EXTINF:-1,NATIONAL GEOGRAPHIC QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",NATIONAL GEOGRAPHIC QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92082
-#EXTINF:-1,DISCOVERY QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",DISCOVERY QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92071
-#EXTINF:-1,DISCOVERY ID QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",DISCOVERY ID QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92073
-#EXTINF:-1,LOVE NATURE QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",LOVE NATURE QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92079
-#EXTINF:-1,VIASAT HISTORY QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",VIASAT HISTORY QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92068
-#EXTINF:-1,DOCUBOX QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",DOCUBOX QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92055
-#EXTINF:-1,SINEMA TV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA TV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92067
-#EXTINF:-1,SINEMA 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92060
-#EXTINF:-1,SINEMA AILE QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA AILE QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92063
-#EXTINF:-1,SINEMA AILE 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA AILE 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92064
-#EXTINF:-1,SINEMA KOMEDI QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA KOMEDI QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92065
-#EXTINF:-1,SINEMA KOMEDI 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA KOMEDI 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92066
-#EXTINF:-1,SINEMA AKSIYON QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA AKSIYON QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92061
-#EXTINF:-1,SINEMA AKSIYON 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA AKSIYON 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92062
-#EXTINF:-1,SINEMA 1001 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA 1001 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92058
-#EXTINF:-1,SINEMA 1002 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SINEMA 1002 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92059
-#EXTINF:-1,MOVIE SMART TURK QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",MOVIE SMART TURK QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92081
-#EXTINF:-1,MOVIE SMART CLASSIC QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",MOVIE SMART CLASSIC QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92080
-#EXTINF:-1,DIZI SMART MAX QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",DIZI SMART MAX QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92075
-#EXTINF:-1,BEIN SPORTS HABER QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",BEIN SPORTS HABER QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92053
-#EXTINF:-1,A SPOR QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",A SPOR QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92042
-#EXTINF:-1,S SPORT QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",S SPORT QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92087
-#EXTINF:-1,S SPORT 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",S SPORT 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92088
-#EXTINF:-1,SPOR SMART QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SPOR SMART QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92089
-#EXTINF:-1,SPOR SMART 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",SPOR SMART 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92091
-#EXTINF:-1,TRT SPOR QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT SPOR QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92048
-#EXTINF:-1,TRT SPOR YILDIZ QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT SPOR YILDIZ QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92052
-#EXTINF:-1,EUROSPORT 1 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",EUROSPORT 1 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92076
-#EXTINF:-1,EUROSPORT 2 QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",EUROSPORT 2 QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92077
-#EXTINF:-1,TIVIBU SPOR QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TIVIBU SPOR QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92092
-#EXTINF:-1,NBA TV QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",NBA TV QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92085
-#EXTINF:-1,FIGHTBOX QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",FIGHTBOX QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92056
-#EXTINF:-1,TRT TURK QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT TURK QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92050
-#EXTINF:-1,TRT WORLD QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT WORLD QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92049
-#EXTINF:-1,TRT KURDI QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",TRT KURDI QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92051
-#EXTINF:-1,NATURE ESCAPE QHD
+#EXTINF:-1 group-title="ULUSAL HEVC (QHD)",NATURE ESCAPE QHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92084
-#EXTINF:-1,✨ ✨  HABERLER ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195464
-#EXTINF:-1,TRT HABER FHD
+
+# ========================================================
+# KATEGORİ: HABER (61 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="HABER",TRT HABER FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/328
-#EXTINF:-1,TRT HABER HD
+#EXTINF:-1 group-title="HABER",TRT HABER HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/327
-#EXTINF:-1,NTV FHD
+#EXTINF:-1 group-title="HABER",NTV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/332
-#EXTINF:-1,NTV HD
+#EXTINF:-1 group-title="HABER",NTV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/331
-#EXTINF:-1,CNN TURK FHD
+#EXTINF:-1 group-title="HABER",CNN TURK FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/330
-#EXTINF:-1,CNN TURK HD
+#EXTINF:-1 group-title="HABER",CNN TURK HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/329
-#EXTINF:-1,HABERTURK FHD
+#EXTINF:-1 group-title="HABER",HABERTURK FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/326
-#EXTINF:-1,HABERTURK HD
+#EXTINF:-1 group-title="HABER",HABERTURK HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/325
-#EXTINF:-1,HALK TV FHD
+#EXTINF:-1 group-title="HABER",HALK TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/324
-#EXTINF:-1,HALK TV HD
+#EXTINF:-1 group-title="HABER",HALK TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/323
-#EXTINF:-1,A HABER FHD
+#EXTINF:-1 group-title="HABER",A HABER FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/322
-#EXTINF:-1,A HABER HD
+#EXTINF:-1 group-title="HABER",A HABER HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/321
-#EXTINF:-1,KOZA TV
+#EXTINF:-1 group-title="HABER",KOZA TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/132583
-#EXTINF:-1,HABER GLOBAL FHD
+#EXTINF:-1 group-title="HABER",HABER GLOBAL FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/320
-#EXTINF:-1,HABER GLOBAL HD
+#EXTINF:-1 group-title="HABER",HABER GLOBAL HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/319
-#EXTINF:-1,TV 100 FHD
+#EXTINF:-1 group-title="HABER",TV 100 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/318
-#EXTINF:-1,TV 100 HD
+#EXTINF:-1 group-title="HABER",TV 100 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/317
-#EXTINF:-1,EKOL TV FHD
+#EXTINF:-1 group-title="HABER",EKOL TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/316
-#EXTINF:-1,EKOL TV HD
+#EXTINF:-1 group-title="HABER",EKOL TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/315
-#EXTINF:-1,AKIT TV FHD
+#EXTINF:-1 group-title="HABER",AKIT TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/314
-#EXTINF:-1,AKIT TV HD
+#EXTINF:-1 group-title="HABER",AKIT TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/313
-#EXTINF:-1,24 TV FHD
+#EXTINF:-1 group-title="HABER",24 TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/312
-#EXTINF:-1,24 TV HD
+#EXTINF:-1 group-title="HABER",24 TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/311
-#EXTINF:-1,TELE 1 HD
+#EXTINF:-1 group-title="HABER",TELE 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/309
-#EXTINF:-1,KRT TV FHD
+#EXTINF:-1 group-title="HABER",KRT TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/306
-#EXTINF:-1,KRT TV HD
+#EXTINF:-1 group-title="HABER",KRT TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/305
-#EXTINF:-1,SOZCU TV FHD
+#EXTINF:-1 group-title="HABER",SOZCU TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/304
-#EXTINF:-1,SOZCU TV HD
+#EXTINF:-1 group-title="HABER",SOZCU TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/303
-#EXTINF:-1,ULKE TV FHD
+#EXTINF:-1 group-title="HABER",ULKE TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/302
-#EXTINF:-1,ULKE TV HD
+#EXTINF:-1 group-title="HABER",ULKE TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/301
-#EXTINF:-1,FLASH HABER FHD
+#EXTINF:-1 group-title="HABER",FLASH HABER FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/300
-#EXTINF:-1,FLASH HABER HD
+#EXTINF:-1 group-title="HABER",FLASH HABER HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/299
-#EXTINF:-1,TURKHABER FHD
+#EXTINF:-1 group-title="HABER",TURKHABER FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/308
-#EXTINF:-1,TURKHABER HD
+#EXTINF:-1 group-title="HABER",TURKHABER HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/307
-#EXTINF:-1,BLOOMBERG HT FHD
+#EXTINF:-1 group-title="HABER",BLOOMBERG HT FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/298
-#EXTINF:-1,BLOOMBERG HT HD
+#EXTINF:-1 group-title="HABER",BLOOMBERG HT HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/297
-#EXTINF:-1,LIDER HABER FHD
+#EXTINF:-1 group-title="HABER",LIDER HABER FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/294
-#EXTINF:-1,LIDER HABER HD
+#EXTINF:-1 group-title="HABER",LIDER HABER HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/293
-#EXTINF:-1,BENGU TURK FHD
+#EXTINF:-1 group-title="HABER",BENGU TURK FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/292
-#EXTINF:-1,BENGU TURK HD
+#EXTINF:-1 group-title="HABER",BENGU TURK HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/291
-#EXTINF:-1,EKOTURK FHD
+#EXTINF:-1 group-title="HABER",EKOTURK FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/290
-#EXTINF:-1,EKOTURK HD
+#EXTINF:-1 group-title="HABER",EKOTURK HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/289
-#EXTINF:-1,TVNET FHD
+#EXTINF:-1 group-title="HABER",TVNET FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/288
-#EXTINF:-1,TVNET HD
+#EXTINF:-1 group-title="HABER",TVNET HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/287
-#EXTINF:-1,ULUSAL KANAL FHD
+#EXTINF:-1 group-title="HABER",ULUSAL KANAL FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/284
-#EXTINF:-1,ULUSAL KANAL HD
+#EXTINF:-1 group-title="HABER",ULUSAL KANAL HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/283
-#EXTINF:-1,CNBC-E FHD
+#EXTINF:-1 group-title="HABER",CNBC-E FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/286
-#EXTINF:-1,CNBC-E HD
+#EXTINF:-1 group-title="HABER",CNBC-E HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/285
-#EXTINF:-1,TGRT HABER FHD
+#EXTINF:-1 group-title="HABER",TGRT HABER FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/282
-#EXTINF:-1,TGRT HABER HD
+#EXTINF:-1 group-title="HABER",TGRT HABER HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/281
-#EXTINF:-1,TGRT EU
+#EXTINF:-1 group-title="HABER",TGRT EU
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/270
-#EXTINF:-1,GZT HABER
+#EXTINF:-1 group-title="HABER",GZT HABER
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/295
-#EXTINF:-1,ILKE TV
+#EXTINF:-1 group-title="HABER",ILKE TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/273
-#EXTINF:-1,TYT TURK
+#EXTINF:-1 group-title="HABER",TYT TURK
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/276
-#EXTINF:-1,TIVI 6
+#EXTINF:-1 group-title="HABER",TIVI 6
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/277
-#EXTINF:-1,TRABZON HABER 61
+#EXTINF:-1 group-title="HABER",TRABZON HABER 61
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/271
-#EXTINF:-1,KANAL B
+#EXTINF:-1 group-title="HABER",KANAL B
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/275
-#EXTINF:-1,CAN TV
+#EXTINF:-1 group-title="HABER",CAN TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/274
-#EXTINF:-1,A PARA
+#EXTINF:-1 group-title="HABER",A PARA
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/280
-#EXTINF:-1,A NEWS
+#EXTINF:-1 group-title="HABER",A NEWS
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/268
-#EXTINF:-1,TRT WORLD
+#EXTINF:-1 group-title="HABER",TRT WORLD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/269
-#EXTINF:-1,✨ ✨ BELGESEL ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195468
-#EXTINF:-1,TRT BELGESEL FHD
+
+# ========================================================
+# KATEGORİ: BELGESEL (51 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="BELGESEL",TRT BELGESEL FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/263
-#EXTINF:-1,TRT BELGESEL HD
+#EXTINF:-1 group-title="BELGESEL",TRT BELGESEL HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/262
-#EXTINF:-1,NAT GEO WILD FHD
+#EXTINF:-1 group-title="BELGESEL",NAT GEO WILD FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/267
-#EXTINF:-1,NAT GEO WILD HD
+#EXTINF:-1 group-title="BELGESEL",NAT GEO WILD HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/266
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 group-title="BELGESEL",NATIONAL GEOGRAPHIC FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/265
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 group-title="BELGESEL",NATIONAL GEOGRAPHIC HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/264
-#EXTINF:-1,DISCOVERY FHD
+#EXTINF:-1 group-title="BELGESEL",DISCOVERY FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/261
-#EXTINF:-1,DISCOVERY HD
+#EXTINF:-1 group-title="BELGESEL",DISCOVERY HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/260
-#EXTINF:-1,DISCOVERY ID FHD
+#EXTINF:-1 group-title="BELGESEL",DISCOVERY ID FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/259
-#EXTINF:-1,DISCOVERY ID HD
+#EXTINF:-1 group-title="BELGESEL",DISCOVERY ID HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/258
-#EXTINF:-1,DMAX FHD
+#EXTINF:-1 group-title="BELGESEL",DMAX FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/257
-#EXTINF:-1,DMAX HD
+#EXTINF:-1 group-title="BELGESEL",DMAX HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/256
-#EXTINF:-1,HISTORY FHD
+#EXTINF:-1 group-title="BELGESEL",HISTORY FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/255
-#EXTINF:-1,HISTORY HD
+#EXTINF:-1 group-title="BELGESEL",HISTORY HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/254
-#EXTINF:-1,TLC FHD
+#EXTINF:-1 group-title="BELGESEL",TLC FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/253
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="BELGESEL",TLC HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/252
-#EXTINF:-1,TARIH TV FHD
+#EXTINF:-1 group-title="BELGESEL",TARIH TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/251
-#EXTINF:-1,TARIH TV HD
+#EXTINF:-1 group-title="BELGESEL",TARIH TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/250
-#EXTINF:-1,BBC EARTH FHD
+#EXTINF:-1 group-title="BELGESEL",BBC EARTH FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/249
-#EXTINF:-1,BBC EARTH HD
+#EXTINF:-1 group-title="BELGESEL",BBC EARTH HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/248
-#EXTINF:-1,VIASAT HISTORY FHD
+#EXTINF:-1 group-title="BELGESEL",VIASAT HISTORY FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/247
-#EXTINF:-1,VIASAT HISTORY HD
+#EXTINF:-1 group-title="BELGESEL",VIASAT HISTORY HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/246
-#EXTINF:-1,VIASAT EXPLORE FHD
+#EXTINF:-1 group-title="BELGESEL",VIASAT EXPLORE FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/245
-#EXTINF:-1,VIASAT EXPLORE HD
+#EXTINF:-1 group-title="BELGESEL",VIASAT EXPLORE HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/244
-#EXTINF:-1,LOVE NATURE FHD
+#EXTINF:-1 group-title="BELGESEL",LOVE NATURE FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/243
-#EXTINF:-1,LOVE NATURE HD
+#EXTINF:-1 group-title="BELGESEL",LOVE NATURE HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/242
-#EXTINF:-1,BEIN IZ FHD
+#EXTINF:-1 group-title="BELGESEL",BEIN IZ FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/241
-#EXTINF:-1,BEIN IZ HD
+#EXTINF:-1 group-title="BELGESEL",BEIN IZ HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/240
-#EXTINF:-1,BEIN GURME FHD
+#EXTINF:-1 group-title="BELGESEL",BEIN GURME FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/239
-#EXTINF:-1,BEIN GURME HD
+#EXTINF:-1 group-title="BELGESEL",BEIN GURME HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/238
-#EXTINF:-1,YABAN TV
+#EXTINF:-1 group-title="BELGESEL",YABAN TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/237
-#EXTINF:-1,CIFTCI TV
+#EXTINF:-1 group-title="BELGESEL",CIFTCI TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/236
-#EXTINF:-1,TGRT BELGESEL
+#EXTINF:-1 group-title="BELGESEL",TGRT BELGESEL
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/235
-#EXTINF:-1,HABITAT TV
+#EXTINF:-1 group-title="BELGESEL",HABITAT TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234
-#EXTINF:-1,TARIM TV
+#EXTINF:-1 group-title="BELGESEL",TARIM TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/233
-#EXTINF:-1,Vahşi Serüvenler
+#EXTINF:-1 group-title="BELGESEL",Vahşi Serüvenler
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92109
-#EXTINF:-1,Vahşi Doğa
+#EXTINF:-1 group-title="BELGESEL",Vahşi Doğa
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92108
-#EXTINF:-1,Uzay Bilimi
+#EXTINF:-1 group-title="BELGESEL",Uzay Bilimi
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92107
-#EXTINF:-1,Shark TV
+#EXTINF:-1 group-title="BELGESEL",Shark TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92106
-#EXTINF:-1,Savaşın Efsaneleri
+#EXTINF:-1 group-title="BELGESEL",Savaşın Efsaneleri
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92105
-#EXTINF:-1,Okyanusun Derinlikleri
+#EXTINF:-1 group-title="BELGESEL",Okyanusun Derinlikleri
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92104
-#EXTINF:-1,İz Bırakanlar
+#EXTINF:-1 group-title="BELGESEL",İz Bırakanlar
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92103
-#EXTINF:-1,Hayvanlar Alemi
+#EXTINF:-1 group-title="BELGESEL",Hayvanlar Alemi
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92102
-#EXTINF:-1,Gizli Cennetler
+#EXTINF:-1 group-title="BELGESEL",Gizli Cennetler
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92101
-#EXTINF:-1,Galaktik Düzen
+#EXTINF:-1 group-title="BELGESEL",Galaktik Düzen
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92100
-#EXTINF:-1,Evren'in Gizemi
+#EXTINF:-1 group-title="BELGESEL",Evren'in Gizemi
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92099
-#EXTINF:-1,Dünyamız
+#EXTINF:-1 group-title="BELGESEL",Dünyamız
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92098
-#EXTINF:-1,Doğa Harikaları
+#EXTINF:-1 group-title="BELGESEL",Doğa Harikaları
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92097
-#EXTINF:-1,Dinazorlar Devri
+#EXTINF:-1 group-title="BELGESEL",Dinazorlar Devri
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92096
-#EXTINF:-1,Bermuda Şeytan Üçgeni
+#EXTINF:-1 group-title="BELGESEL",Bermuda Şeytan Üçgeni
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92095
-#EXTINF:-1,Antik Medeniyetler
+#EXTINF:-1 group-title="BELGESEL",Antik Medeniyetler
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92094
-#EXTINF:-1,✨ ✨ TİVİBU SPORTS  ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/196242
-#EXTINF:-1,✨ ✨ TR SPOR  ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195562
-#EXTINF:-1,TRT SPOR FHD
+
+# ========================================================
+# KATEGORİ: SPOR - TÜRKİYE & TİVİBU (35 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TRT SPOR FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/207
-#EXTINF:-1,TRT SPOR HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TRT SPOR HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/206
-#EXTINF:-1,HT SPOR FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",HT SPOR FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/205
-#EXTINF:-1,HT SPOR HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",HT SPOR HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/204
-#EXTINF:-1,A SPOR FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",A SPOR FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/203
-#EXTINF:-1,A SPOR HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",A SPOR HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/202
-#EXTINF:-1,SMART SPOR FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",SMART SPOR FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/199
-#EXTINF:-1,SMART SPOR HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",SMART SPOR HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/198
-#EXTINF:-1,SMART SPOR 2 FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",SMART SPOR 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/197
-#EXTINF:-1,SMART SPOR 2 HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",SMART SPOR 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/196
-#EXTINF:-1,FB TV HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",FB TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195
-#EXTINF:-1,FB TV
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",FB TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/194
-#EXTINF:-1,EUROSPORT 1
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",EUROSPORT 1
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/193
-#EXTINF:-1,EUROSPORT 2
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",EUROSPORT 2
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/192
-#EXTINF:-1,TRT SPOR YILDIZ FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TRT SPOR YILDIZ FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/201
-#EXTINF:-1,TRT SPOR YILDIZ HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TRT SPOR YILDIZ HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/200
-#EXTINF:-1,TRT 3 SPOR (TBMM)
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TRT 3 SPOR (TBMM)
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/191
-#EXTINF:-1,SIFIR TV
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",SIFIR TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/188
-#EXTINF:-1,SPORTS TV
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",SPORTS TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/189
-#EXTINF:-1,EKOL SPORT
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",EKOL SPORT
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/190
-#EXTINF:-1,TJK TV
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TJK TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/187
-#EXTINF:-1,TAY TV
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TAY TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/186
-#EXTINF:-1,NBA TV
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",NBA TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/184
-#EXTINF:-1,FIGHTBOX
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",FIGHTBOX
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/183
-#EXTINF:-1,SATRANC & BRIC TV
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",SATRANC & BRIC TV
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/185
-#EXTINF:-1,TIVIBU SPOR FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130193
-#EXTINF:-1,TIVIBU SPOR HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130192
-#EXTINF:-1,TIVIBU SPOR 1 FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130195
-#EXTINF:-1,TIVIBU SPOR 1 HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130194
-#EXTINF:-1,TIVIBU SPOR 2 FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130197
-#EXTINF:-1,TIVIBU SPOR 2 HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130196
-#EXTINF:-1,TIVIBU SPOR 3 FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR 3 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130199
-#EXTINF:-1,TIVIBU SPOR 3  HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR 3  HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130200
-#EXTINF:-1,TIVIBU SPOR 4 FHD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR 4 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130201
-#EXTINF:-1,TIVIBU SPOR 4 HD
+#EXTINF:-1 group-title="SPOR - TÜRKİYE & TİVİBU",TIVIBU SPOR 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130202
-#EXTINF:-1,✨ ✨  BEIN SPORTS ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195391
-#EXTINF:-1,TR: BEIN SPORTS 1 4K
+
+# ========================================================
+# KATEGORİ: SPOR - BEIN SPORTS (39 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 1 4K
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195392
-#EXTINF:-1,TR: BEIN SPORTS 1 MODUL HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 1 MODUL HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195393
-#EXTINF:-1,TR: BEIN SPORTS 1 LOCAL UYDU
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 1 LOCAL UYDU
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195394
-#EXTINF:-1,TR: BEIN SPORTS 1 640p
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 1 640p
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195395
-#EXTINF:-1,TR: BEIN SPORTS 1 576p
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 1 576p
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195396
-#EXTINF:-1,TR: BEIN SPORTS 1 480p
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 1 480p
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195397
-#EXTINF:-1,TR: BEIN SPORTS 2 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195399
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195398
-#EXTINF:-1,TR: BEIN SPORTS 3 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 3 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195401
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 3 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195400
-#EXTINF:-1,TR: BEIN SPORTS 4 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 4 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195403
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195402
-#EXTINF:-1,TR: BEIN SPORTS 5 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 5 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195407
-#EXTINF:-1,TR: BEIN SPORTS 5 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS 5 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195404
-#EXTINF:-1,TR: BEIN SPORTS MAX 1
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS MAX 1
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195408
-#EXTINF:-1,TR: BEIN SPORTS MAX 2
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",TR: BEIN SPORTS MAX 2
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195409
-#EXTINF:-1,✨ ✨  BEIN SPORTS ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/195415
-#EXTINF:-1,BEIN SPORTS HABER FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS HABER FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/146
-#EXTINF:-1,BEIN SPORTS HABER HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS HABER HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/168437
-#EXTINF:-1,BEIN SPORTS 1 HEVC
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 1 HEVC
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/168436
-#EXTINF:-1,BEIN SPORTS 1 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/144
-#EXTINF:-1,BEIN SPORTS 1 FHD+
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 1 FHD+
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/145
-#EXTINF:-1,BEIN SPORTS 1 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/143
-#EXTINF:-1,BEIN SPORTS 1 SD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 1 SD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/142
-#EXTINF:-1,BEIN SPORTS 2 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/140
-#EXTINF:-1,BEIN SPORTS 2 FHD+
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 2 FHD+
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/141
-#EXTINF:-1,BEIN SPORTS 2 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/139
-#EXTINF:-1,BEIN SPORTS 3 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 3 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/137
-#EXTINF:-1,BEIN SPORTS 3 FHD+
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 3 FHD+
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/138
-#EXTINF:-1,BEIN SPORTS 3 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 3 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/136
-#EXTINF:-1,BEIN SPORTS 4 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 4 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/134
-#EXTINF:-1,BEIN SPORTS 4 FHD+
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 4 FHD+
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/135
-#EXTINF:-1,BEIN SPORTS 4 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/133
-#EXTINF:-1,BEIN SPORTS 5 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 5 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/131
-#EXTINF:-1,BEIN SPORTS 5 FHD+
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 5 FHD+
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/132
-#EXTINF:-1,BEIN SPORTS 5 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS 5 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/130
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS MAX 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/129
-#EXTINF:-1,BEIN SPORTS MAX 1 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS MAX 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/128
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS MAX 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/127
-#EXTINF:-1,BEIN SPORTS MAX 2 HD
+#EXTINF:-1 group-title="SPOR - BEIN SPORTS",BEIN SPORTS MAX 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/126
-#EXTINF:-1,✨ ✨ S SPORTS  ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/196241
-#EXTINF:-1,S SPORT FHD
+
+# ========================================================
+# KATEGORİ: SPOR - S SPORT (14 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/160
-#EXTINF:-1,S SPORT HD
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/159
-#EXTINF:-1,S SPORT 2 FHD
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/158
-#EXTINF:-1,S SPORT 2 HD
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/157
-#EXTINF:-1,S SPORT PLUS 1
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 1
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/156
-#EXTINF:-1,S SPORT PLUS 2
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 2
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/155
-#EXTINF:-1,S SPORT PLUS 3
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 3
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/154
-#EXTINF:-1,S SPORT PLUS 4
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 4
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/153
-#EXTINF:-1,S SPORT PLUS 5
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 5
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/152
-#EXTINF:-1,S SPORT PLUS 6
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 6
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/151
-#EXTINF:-1,S SPORT PLUS 7
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 7
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/150
-#EXTINF:-1,S SPORT PLUS 8
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 8
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/149
-#EXTINF:-1,S SPORT PLUS 9
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 9
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/148
-#EXTINF:-1,S SPORT PLUS 10
+#EXTINF:-1 group-title="SPOR - S SPORT",S SPORT PLUS 10
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/147
-#EXTINF:-1,✨ ✨TABİ SPORTS ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/196244
-#EXTINF:-1,TRT 1 FHD
+
+# ========================================================
+# KATEGORİ: SPOR - TABİİ SPORTS (16 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TRT 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100834
-#EXTINF:-1,TRT Spor FHD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TRT Spor FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100835
-#EXTINF:-1,TAβİİ Spor FHD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100820
-#EXTINF:-1,TAβİİ Spor HD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100821
-#EXTINF:-1,TAβİİ Spor 1 FHD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100822
-#EXTINF:-1,TAβİİ Spor 1 HD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100823
-#EXTINF:-1,TAβİİ Spor 2 FHD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100824
-#EXTINF:-1,TAβİİ Spor 2 HD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100825
-#EXTINF:-1,TAβİİ Spor 3 FHD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 3 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100826
-#EXTINF:-1,TAβİİ Spor 3 HD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 3 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100827
-#EXTINF:-1,TAβİİ Spor 4 FHD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 4 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100828
-#EXTINF:-1,TAβİİ Spor 4 HD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100829
-#EXTINF:-1,TAβİİ Spor 5 FHD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 5 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100830
-#EXTINF:-1,TAβİİ Spor 5 HD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 5 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100831
-#EXTINF:-1,TAβİİ Spor 6 FHD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 6 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100832
-#EXTINF:-1,TAβİİ Spor 6 HD
+#EXTINF:-1 group-title="SPOR - TABİİ SPORTS",TAβİİ Spor 6 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100833
-#EXTINF:-1,✨ ✨ EXXEN SPORTS ✨ ✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/196243
-#EXTINF:-1,Exxen Sports Info
+
+# ========================================================
+# KATEGORİ: SPOR - EXXEN SPORTS (18 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports Info
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100856
-#EXTINF:-1,Exxen Sports 1 FHD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100857
-#EXTINF:-1,Exxen Sports 1 HD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100858
-#EXTINF:-1,Exxen Sports 1 SD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 1 SD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100859
-#EXTINF:-1,Exxen Sports 2 FHD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100860
-#EXTINF:-1,Exxen Sports 2 HD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100861
-#EXTINF:-1,Exxen Sports 3 FHD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 3 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100862
-#EXTINF:-1,Exxen Sports 3 HD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 3 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100863
-#EXTINF:-1,Exxen Sports 4 FHD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 4 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100864
-#EXTINF:-1,Exxen Sports 4 HD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100865
-#EXTINF:-1,Exxen Sports 5 FHD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 5 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100866
-#EXTINF:-1,Exxen Sports 5 HD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 5 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100867
-#EXTINF:-1,Exxen Sports 6 FHD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 6 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100868
-#EXTINF:-1,Exxen Sports 6 HD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 6 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100869
-#EXTINF:-1,Exxen Sports 7 FHD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 7 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100870
-#EXTINF:-1,Exxen Sports 7 HD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 7 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100871
-#EXTINF:-1,Exxen Sports 8 FHD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 8 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100872
-#EXTINF:-1,Exxen Sports 8 HD 
+#EXTINF:-1 group-title="SPOR - EXXEN SPORTS",Exxen Sports 8 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100873
-#EXTINF:-1,βĘIŊ MOVIES FAMILY FHD
+
+# ========================================================
+# KATEGORİ: SİNEMA & DİZİ KANALLARI (58 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES FAMILY FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/123
-#EXTINF:-1,βĘIŊ MOVIES FAMILY HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES FAMILY HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/122
-#EXTINF:-1,βĘIŊ MOVIES PREMIERE 2 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES PREMIERE 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/115
-#EXTINF:-1,βĘIŊ MOVIES PREMIERE 2 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES PREMIERE 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/114
-#EXTINF:-1,βĘIŊ MOVIES PREMIERE FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES PREMIERE FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/117
-#EXTINF:-1,βĘIŊ MOVIES PREMIERE HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES PREMIERE HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/116
-#EXTINF:-1,βĘIŊ MOVIES STARS FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES STARS FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/119
-#EXTINF:-1,βĘIŊ MOVIES STARS HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES STARS HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/118
-#EXTINF:-1,βĘIŊ MOVIES TURK FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES TURK FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/125
-#EXTINF:-1,βĘIŊ MOVIES TURK HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ MOVIES TURK HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/124
-#EXTINF:-1,βĘIŊ SERIES 1 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ SERIES 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/107
-#EXTINF:-1,βĘIŊ SERIES 1 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ SERIES 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/106
-#EXTINF:-1,βĘIŊ SERIES 2 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ SERIES 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/105
-#EXTINF:-1,βĘIŊ SERIES 2 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ SERIES 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/104
-#EXTINF:-1,βĘIŊ SERIES 3 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ SERIES 3 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/103
-#EXTINF:-1,βĘIŊ SERIES 3 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ SERIES 3 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/102
-#EXTINF:-1,βĘIŊ SERIES 4 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ SERIES 4 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/101
-#EXTINF:-1,βĘIŊ SERIES 4 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ SERIES 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/100
-#EXTINF:-1,βĘIŊ βOX OFFICE 1 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ βOX OFFICE 1 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/113
-#EXTINF:-1,βĘIŊ βOX OFFICE 1 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ βOX OFFICE 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/112
-#EXTINF:-1,βĘIŊ βOX OFFICE 2 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ βOX OFFICE 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/111
-#EXTINF:-1,βĘIŊ βOX OFFICE 2 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ βOX OFFICE 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/110
-#EXTINF:-1,βĘIŊ βOX OFFICE 3 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ βOX OFFICE 3 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/109
-#EXTINF:-1,βĘIŊ βOX OFFICE 3 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",βĘIŊ βOX OFFICE 3 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/108
-#EXTINF:-1,FX FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",FX FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/75
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",FX HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/74
-#EXTINF:-1,DIZI SMART MAX FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",DIZI SMART MAX FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/71
-#EXTINF:-1,DIZI SMART MAX HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",DIZI SMART MAX HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/70
-#EXTINF:-1,MOVIE SMART TURK FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",MOVIE SMART TURK FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/67
-#EXTINF:-1,MOVIE SMART TURK HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",MOVIE SMART TURK HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/66
-#EXTINF:-1,MOVIE SMART CLASSIC FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",MOVIE SMART CLASSIC FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/65
-#EXTINF:-1,MOVIE SMART CLASSIC HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",MOVIE SMART CLASSIC HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/64
-#EXTINF:-1,EPIC DRAMA FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",EPIC DRAMA FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/73
-#EXTINF:-1,EPIC DRAMA HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",EPIC DRAMA HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/72
-#EXTINF:-1,SINEMA TV FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA TV FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/99
-#EXTINF:-1,SINEMA TV HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA TV HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/98
-#EXTINF:-1,SINEMA 2 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/97
-#EXTINF:-1,SINEMA 2 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/96
-#EXTINF:-1,SINEMA 1001 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA 1001 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/79
-#EXTINF:-1,SINEMA 1001 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA 1001 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/78
-#EXTINF:-1,SINEMA 1002 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA 1002 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/77
-#EXTINF:-1,SINEMA 1002 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA 1002 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/76
-#EXTINF:-1,SINEMA AILE 2 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA AILE 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/89
-#EXTINF:-1,SINEMA AILE 2 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA AILE 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/88
-#EXTINF:-1,SINEMA AILE FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA AILE FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/91
-#EXTINF:-1,SINEMA AILE HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA AILE HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/90
-#EXTINF:-1,SINEMA AKSIYON 2 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA AKSIYON 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/85
-#EXTINF:-1,SINEMA AKSIYON 2 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA AKSIYON 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/84
-#EXTINF:-1,SINEMA AKSIYON FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA AKSIYON FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/87
-#EXTINF:-1,SINEMA AKSIYON HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA AKSIYON HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/86
-#EXTINF:-1,SINEMA KOMEDI 2 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA KOMEDI 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/81
-#EXTINF:-1,SINEMA KOMEDI 2 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA KOMEDI 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/80
-#EXTINF:-1,SINEMA KOMEDI FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA KOMEDI FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/83
-#EXTINF:-1,SINEMA KOMEDI HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA KOMEDI HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/82
-#EXTINF:-1,SINEMA YERLI 2 FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA YERLI 2 FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/93
-#EXTINF:-1,SINEMA YERLI 2 HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA YERLI 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92
-#EXTINF:-1,SINEMA YERLI FHD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA YERLI FHD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/95
-#EXTINF:-1,SINEMA YERLI HD
+#EXTINF:-1 group-title="SİNEMA & DİZİ KANALLARI",SINEMA YERLI HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/94
-#EXTINF:-1,✨✨ EXXEN SHOW 7/24 ✨✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234241
-#EXTINF:-1,TR: KONUŞANLAR 1 ʜᴅ
+
+# ========================================================
+# KATEGORİ: EXXEN SHOW 7/24 (9 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: KONUŞANLAR 1 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234242
-#EXTINF:-1,TR: KONUŞANLAR 2 ʜᴅ
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: KONUŞANLAR 2 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234243
-#EXTINF:-1,TR: KONUŞANLAR 3 ʜᴅ
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: KONUŞANLAR 3 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234244
-#EXTINF:-1,TR: EXXEN TV 1 ʜᴅ
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: EXXEN TV 1 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234249
-#EXTINF:-1,TR: EXXEN TV 2 ʜᴅ
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: EXXEN TV 2 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234250
-#EXTINF:-1,TR: GİBİ  ʜᴅ
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: GİBİ  ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234245
-#EXTINF:-1,TR: O SES TÜRKİYE RAP ʜᴅ
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: O SES TÜRKİYE RAP ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234246
-#EXTINF:-1,TR: BELGESEL ʜᴅ
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: BELGESEL ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234248
-#EXTINF:-1,TR: LEYLA ile MECNUN ʜᴅ
+#EXTINF:-1 group-title="EXXEN SHOW 7/24",TR: LEYLA ile MECNUN ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234247
-#EXTINF:-1,✨✨ DİZİ 7/24  ✨✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234047
-#EXTINF:-1,TR: SOKAĞIN COCUKLARI ʜᴅ
+
+# ========================================================
+# KATEGORİ: DİZİLER 7/24 (51 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: SOKAĞIN COCUKLARI ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234071
-#EXTINF:-1,TR: SIFIR 1 ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: SIFIR 1 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234070
-#EXTINF:-1,TR: TOLGSHOW ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: TOLGSHOW ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234069
-#EXTINF:-1,TR: 7 NUMARA HD
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: 7 NUMARA HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234068
-#EXTINF:-1,TR: BİZİMKİLER HD
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: BİZİMKİLER HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234067
-#EXTINF:-1,TR: İLK BULUŞMA ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: İLK BULUŞMA ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234066
-#EXTINF:-1,TR: CENNET MAHALLESİ ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: CENNET MAHALLESİ ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234065
-#EXTINF:-1,TR: EDHO ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: EDHO ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234064
-#EXTINF:-1,TR: KARDEŞ PAYI
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: KARDEŞ PAYI
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234063
-#EXTINF:-1,TR: DİRİLİŞ ERTUĞRUL ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: DİRİLİŞ ERTUĞRUL ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234062
-#EXTINF:-1,TR: ÇOK GÜZEL HAREKET BUNLAR 2 ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: ÇOK GÜZEL HAREKET BUNLAR 2 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234061
-#EXTINF:-1,TR: GÜLDÜR GÜLDÜR  ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: GÜLDÜR GÜLDÜR  ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234060
-#EXTINF:-1,TR: AKASYA DURAĞI HD
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: AKASYA DURAĞI HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234059
-#EXTINF:-1,TR: MUHTEŞEM YÜZYIL ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: MUHTEŞEM YÜZYIL ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234058
-#EXTINF:-1,TR: LEYLA ile MECNUN ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: LEYLA ile MECNUN ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234057
-#EXTINF:-1,TR: KUZEY & GÜNEY ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: KUZEY & GÜNEY ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234056
-#EXTINF:-1,TR: AŞK-I MEMNU ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: AŞK-I MEMNU ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234055
-#EXTINF:-1,TR: EZEL HD
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: EZEL HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234054
-#EXTINF:-1,TR: İÇERDE ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: İÇERDE ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234053
-#EXTINF:-1,TR: ÇUKUR ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: ÇUKUR ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234052
-#EXTINF:-1,TR: KURTLAR VADİSİ ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: KURTLAR VADİSİ ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234051
-#EXTINF:-1,TR: KURTLAR VADİSİ PUSU ʜᴅ
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: KURTLAR VADİSİ PUSU ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234050
-#EXTINF:-1,TR: 32. GÜN HD
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: 32. GÜN HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234049
-#EXTINF:-1,TR: GADDAR HD
+#EXTINF:-1 group-title="DİZİLER 7/24",TR: GADDAR HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234048
-#EXTINF:-1,VAMPIRES
+#EXTINF:-1 group-title="DİZİLER 7/24",VAMPIRES
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92178
-#EXTINF:-1,VAMPIRE ACEDEMY
+#EXTINF:-1 group-title="DİZİLER 7/24",VAMPIRE ACEDEMY
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92177
-#EXTINF:-1,V WARS
+#EXTINF:-1 group-title="DİZİLER 7/24",V WARS
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92176
-#EXTINF:-1,THE PUNISHER
+#EXTINF:-1 group-title="DİZİLER 7/24",THE PUNISHER
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92175
-#EXTINF:-1,THE MANDALORIAN
+#EXTINF:-1 group-title="DİZİLER 7/24",THE MANDALORIAN
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92174
-#EXTINF:-1,THE LAKE
+#EXTINF:-1 group-title="DİZİLER 7/24",THE LAKE
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92173
-#EXTINF:-1,SENSE 8
+#EXTINF:-1 group-title="DİZİLER 7/24",SENSE 8
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92172
-#EXTINF:-1,PEAKY BLINDERS
+#EXTINF:-1 group-title="DİZİLER 7/24",PEAKY BLINDERS
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92171
-#EXTINF:-1,MORTAL
+#EXTINF:-1 group-title="DİZİLER 7/24",MORTAL
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92170
-#EXTINF:-1,MARVEL's IRON FIST
+#EXTINF:-1 group-title="DİZİLER 7/24",MARVEL's IRON FIST
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92169
-#EXTINF:-1,MARVEL' s the DEFENDERS
+#EXTINF:-1 group-title="DİZİLER 7/24",MARVEL' s the DEFENDERS
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92168
-#EXTINF:-1,LUPIN
+#EXTINF:-1 group-title="DİZİLER 7/24",LUPIN
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92167
-#EXTINF:-1,LORD of the RINGS
+#EXTINF:-1 group-title="DİZİLER 7/24",LORD of the RINGS
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92166
-#EXTINF:-1,LEGION
+#EXTINF:-1 group-title="DİZİLER 7/24",LEGION
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92165
-#EXTINF:-1,KINGDOM
+#EXTINF:-1 group-title="DİZİLER 7/24",KINGDOM
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92164
-#EXTINF:-1,HOUSE of the DRAGON
+#EXTINF:-1 group-title="DİZİLER 7/24",HOUSE of the DRAGON
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92163
-#EXTINF:-1,HELLBOUND
+#EXTINF:-1 group-title="DİZİLER 7/24",HELLBOUND
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92162
-#EXTINF:-1,CITADEL
+#EXTINF:-1 group-title="DİZİLER 7/24",CITADEL
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92161
-#EXTINF:-1,CHERNOBYL
+#EXTINF:-1 group-title="DİZİLER 7/24",CHERNOBYL
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92160
-#EXTINF:-1,BLACK SUMMER
+#EXTINF:-1 group-title="DİZİLER 7/24",BLACK SUMMER
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92159
-#EXTINF:-1,BLACK MIRROR
+#EXTINF:-1 group-title="DİZİLER 7/24",BLACK MIRROR
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92158
-#EXTINF:-1,BARBARIAN
+#EXTINF:-1 group-title="DİZİLER 7/24",BARBARIAN
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92157
-#EXTINF:-1,BAD BLOOD
+#EXTINF:-1 group-title="DİZİLER 7/24",BAD BLOOD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92156
-#EXTINF:-1,ANOTHER LIFE
+#EXTINF:-1 group-title="DİZİLER 7/24",ANOTHER LIFE
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92155
-#EXTINF:-1,AMERICAN HORROR STORY
+#EXTINF:-1 group-title="DİZİLER 7/24",AMERICAN HORROR STORY
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92154
-#EXTINF:-1,ALTERED CARBON
+#EXTINF:-1 group-title="DİZİLER 7/24",ALTERED CARBON
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92153
-#EXTINF:-1,1899
+#EXTINF:-1 group-title="DİZİLER 7/24",1899
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/92152
-#EXTINF:-1,✨✨ NETFLIX MOVIES  ✨✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234216
-#EXTINF:-1,TR: NETFLIX 1 ʜᴅ
+
+# ========================================================
+# KATEGORİ: NETFLIX SİNEMA (18 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX 1 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234230
-#EXTINF:-1,TR: NETFLIX 2 ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX 2 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234231
-#EXTINF:-1,TR: NETFLIX 3 ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX 3 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234232
-#EXTINF:-1,TR: NETFLIX 4 ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX 4 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234233
-#EXTINF:-1,TR: NETFLIX 5 ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX 5 ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234234
-#EXTINF:-1,TR: NETFLIX Aksiyon ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Aksiyon ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234217
-#EXTINF:-1,TR: NETFLIX Suç ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Suç ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234221
-#EXTINF:-1,TR: NETFLIX Korku ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Korku ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234222
-#EXTINF:-1,TR: NETFLIX Macera ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Macera ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234218
-#EXTINF:-1,TR: NETFLIX Fantastik ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Fantastik ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234220
-#EXTINF:-1,TR: NETFLIX Animasyon ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Animasyon ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234229
-#EXTINF:-1,TR: NETFLIX Bilimkurgu ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Bilimkurgu ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234219
-#EXTINF:-1,TR: NETFLIX Belgesel ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Belgesel ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234228
-#EXTINF:-1,TR: NETFLIX Romantik ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Romantik ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234227
-#EXTINF:-1,TR: NETFLIX Komedi ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Komedi ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234226
-#EXTINF:-1,TR: NETFLIX Dram ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Dram ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234225
-#EXTINF:-1,TR: NETFLIX Gizem ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Gizem ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234224
-#EXTINF:-1,TR: NETFLIX Gerilim ʜᴅ
+#EXTINF:-1 group-title="NETFLIX SİNEMA",TR: NETFLIX Gerilim ʜᴅ
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234223
-#EXTINF:-1,⚜️⚜️ ✨ UNIVERSE ⚜️⚜️
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234203
-#EXTINF:-1,TR: ✨ STUDIOS 1 HD
+
+# ========================================================
+# KATEGORİ: UNIVERSE & STUDIOS (12 Kanal)
+# ========================================================
+
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR: ✨ STUDIOS 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234204
-#EXTINF:-1,TR: ✨ STUDIOS 2 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR: ✨ STUDIOS 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234205
-#EXTINF:-1,TR:  STUDIOS 3 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR:  STUDIOS 3 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234206
-#EXTINF:-1,TR:  STUDIOS 4 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR:  STUDIOS 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234207
-#EXTINF:-1,TR:  STUDIOS 5 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR:  STUDIOS 5 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234208
-#EXTINF:-1,TR:  STUDIOS 6 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR:  STUDIOS 6 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234209
-#EXTINF:-1,TR:  STUDIOS 7 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR:  STUDIOS 7 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234210
-#EXTINF:-1,TR: WESTERN STUDIOS 1 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR: WESTERN STUDIOS 1 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234211
-#EXTINF:-1,TR: WESTERN STUDIOS 2 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR: WESTERN STUDIOS 2 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234212
-#EXTINF:-1,TR: WESTERN STUDIOS 3 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR: WESTERN STUDIOS 3 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234213
-#EXTINF:-1,TR: WESTERN STUDIOS 4 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR: WESTERN STUDIOS 4 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234214
-#EXTINF:-1,TR: WESTERN STUDIOS 5 HD
+#EXTINF:-1 group-title="UNIVERSE & STUDIOS",TR: WESTERN STUDIOS 5 HD
 http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234215
-#EXTINF:-1,✨✨ BOXSET ✨✨
-http://bps.stream-europa.com:8080/gkn7038tv2/gkn2711cc00/234134
